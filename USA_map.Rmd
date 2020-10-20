@@ -1,0 +1,285 @@
+---
+title: "COVID Project"
+author: "Team Delta"
+date: 2020-
+output:
+  github_document:
+    toc: true
+---
+
+```{r setup, include=FALSE}
+# knitr options
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r library}
+library(tidyverse)
+```
+
+# Combining Population and COVID Datasets
+<!-- -------------------------------------------------- -->
+
+Load up the population data from the US Census Bureau
+
+```{r pop-data}
+## Load the census bureau data with the following tibble name.
+filename <- "./data/census_population_data.csv"
+df_pop <- read_csv(filename, skip = 1)
+df_pop %>% glimpse
+```
+
+Pull the New York Times COVID case and death counts dataset
+
+```{r nyt-data}
+## The URL for the NYT covid-19 county-level data
+url_nyt <- "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv"
+filename_nyt <- "./data/nyt_covid.csv"
+curl::curl_download(
+        url_nyt,
+        destfile = filename_nyt
+      )
+df_nyt <- read_csv(filename_nyt)
+df_nyt %>% glimpse
+```
+Join the population and COVID datasets by their county code
+
+```{r join-fips}
+## Create a `fips` column by extracting the county code
+df_fips <- 
+  df_pop %>%
+  mutate(fips = substr(id, 10, 16)) %>%
+  subset(select = -c(id))
+df_fips %>% glimpse
+
+## Join df_covid and df_pop by fips.
+df_covid <- 
+  left_join(df_nyt, df_fips, by = c("fips" = "fips"))
+df_covid %>% glimpse
+
+## Rename and down select columns
+df_covid_data <-
+  df_covid %>%
+  select(
+    date,
+    county,
+    state,
+    fips,
+    cases,
+    deaths,
+    population = `Estimate!!Total`
+  ) %>%
+  filter(population != 'NA')
+
+df_covid_data %>% glimpse
+```
+
+Aggregate by state
+
+```{r aggregate}
+df_covid_bystate <-
+  df_covid_data %>%
+  group_by(state, date) %>%
+  summarise(
+    total_cases = sum(cases), 
+    total_deaths = sum(deaths),
+    total_population_sofar = sum(population)
+    ) %>%
+  ungroup() %>%
+  group_by(state) %>%
+  mutate(total_population = max(total_population_sofar)) %>%
+  subset(select = -c(total_population_sofar))
+
+df_covid_bystate
+```
+
+Normalize the data per 100k persons
+
+```{r normalize}
+## Normalize cases and deaths
+mult = 10e4
+df_covid_norm <-
+  df_covid_bystate %>%
+  mutate(
+    cases_per100k = total_cases/total_population*mult, 
+    deaths_per100k = total_deaths/total_population*mult
+    )
+
+df_covid_norm
+```
+
+
+# Intervention Measures Dataset
+<!-- -------------------------------------------------- -->
+
+Pull the non-pharmaceutical intervention measures dataset
+
+```{r intv-data}
+## The URL for the intervention measures country-level data
+url_intv <- "https://raw.githubusercontent.com/amel-github/covid19-interventionmeasures/master/COVID19_non-pharmaceutical-interventions_version2_utf8.csv"
+  
+## Set the filename of the data to download
+filename_intv <- "./data/state_interventions.csv"
+
+## Download the data locally
+curl::curl_download(
+        url_intv,
+        destfile = filename_intv
+      )
+
+## Loads the downloaded csv
+df_intv <- read_csv(filename_intv)
+
+df_intv %>% glimpse
+```
+
+Tidy the intervention measures dataset
+
+```{r tidy-intv}
+#df_intv # Raw data
+
+df_intv_data <-
+  df_intv %>%
+  # Filter to USA, take out USA totals, and remove the 18 non-state subregions ex. "Broward County"
+  filter(iso3 == "USA", State != "United States of America", Region == State) %>%
+  select(
+    State,
+    Date,
+    Measure_L1,
+    Measure_L2,
+    Measure_L3,
+    Measure_L4
+  )
+df_intv_data
+```
+
+``` {r long-intv}
+df_long_intv <-
+  df_intv_data %>%
+    # List each measure as a separate row
+    pivot_longer(
+      names_to = "name",
+      values_to = "Measure",
+      starts_with("Measure")
+    ) %>%
+    # Remove rows that have no measures
+    filter(Measure != 'NA') %>%
+    # Select most relevant/necessary columns
+    select(
+      State,
+      Date,
+      Measure
+    ) %>%
+  group_by(State, Date, Measure) %>%
+  # Remove repeat rows with same values for State, Date, and Measure
+  filter(row_number(Measure) == 1)
+
+df_long_intv # long version, but can't join to the covid dataset this way
+```
+
+Creating a wide version, to make sure each (State, Date) pair is unique so that we can join with the covid dataset later.
+
+``` {r wide-intv}
+df_wide_intv <-
+  df_long_intv %>%
+  pivot_wider(
+    names_from = c("Measure"),
+    values_from = Measure
+  ) %>%
+  unite(col = "Measures", -c("Date", "State"), sep = "; ", na.rm = TRUE)
+
+df_wide_intv
+```
+
+We want to also find the sum of the interventions made on a particular day
+
+```{r sum-intv}
+df_calulating_intv <- 
+  df_long_intv %>%
+  mutate(dummy = 1) %>%
+  pivot_wider(
+    names_from = c("Measure"),
+    values_from = dummy
+  )
+
+df_total_intv <- 
+  df_calulating_intv %>%
+  subset(select = c(State, Date))
+
+df_total_intv$num_intv <- 
+  cbind(
+    rowSums(df_calulating_intv %>%
+      subset(select = -c(State, Date)), 
+    na.rm = TRUE)
+    )
+
+df_total_intv
+```
+
+We're going to join the list of interventions by state and date with the number of interventions by state and date.
+
+```{r fixing-intv}
+#df_wide_intv
+#df_total_intv
+
+df_interventions <- 
+  left_join(df_wide_intv, df_total_intv, by = c("State" = "State", "Date" = "Date"))
+df_interventions
+```
+
+Apparently only 24 states have official measures put in place according to this dataset.
+
+``` {r states-with-measures}
+df_interventions %>%
+  select(State) %>%
+  group_by(State) %>%
+  filter(row_number(State) == 1)
+```
+
+# Combining the Intervention Measures and COVID Datasets
+<!-- -------------------------------------------------- -->
+
+``` {r join-everything}
+#df_covid_norm
+#df_interventions
+
+## Join df_covid_norm and df_intv_data by df_join
+df_data <- 
+  left_join(df_covid_norm, df_interventions, by = c("state" = "State", "date" = "Date"))
+df_data
+
+```
+
+For each state and day, **df_data** contains:
+
+ - case count
+ - death count
+ - total state population
+ - case count per 100k
+ - death count per 100k
+ - a list of intervention measures taken
+ - and number of intervention measures taken
+
+
+
+#Map of Cases per 100k by state
+```{r}
+us <- map_data("state")
+us
+
+df_data %>%
+  filter(date == "2020-10-18") %>%
+  ggplot(aes(map_id = tolower(state))) +
+  geom_map(aes(fill = cases_per100k), map = us) +
+  expand_limits(x = us$long, y = us$lat)
+
+
+```
+#Map of Deaths per 100k by state
+```{r}
+df_data %>%
+  filter(date == "2020-10-18") %>%
+  ggplot(aes(map_id = tolower(state))) +
+  geom_map(aes(fill = deaths_per100k), map = us) +
+  expand_limits(x = us$long, y = us$lat)
+```
+
