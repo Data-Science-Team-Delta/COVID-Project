@@ -1,0 +1,1029 @@
+"","State","Date","Measure_L1","Measure_L2","Measure_L3","Measure_L4"
+"1","Alabama",2020-03-06,"Resource allocation","Activate or establish emergency response","Risk management plan","Set up crisis unit (national)"
+"2","Alabama",2020-03-13,"Risk communication","Educate and actively communicate with the public","Encourage hand hygiene",NA
+"3","Alabama",2020-03-13,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"4","Alabama",2020-03-13,"Risk communication","Educate and actively communicate with the public","Respiratory etiquette","Advice campaign for not touching eyes/nose/mouth"
+"5","Alabama",2020-03-13,"Risk communication","Educate and actively communicate with the public","Respiratory etiquette","Advice campaign for sneezing/coughing in the elbow"
+"6","Alabama",2020-03-13,"Risk communication","Educate and actively communicate with the public","Promote self-initiated isolation of people with mild respiratory symptoms",NA
+"7","Alabama",2020-03-13,"Social distancing","Mass gathering cancellation","Limit up to 500 persons",NA
+"8","Alabama",2020-03-18,"Social distancing","Mass gathering cancellation","Measures for elections","Elections postponed"
+"9","Alabama",2020-03-19,"Social distancing","Small gathering cancellation","Limit up to 25 persons",NA
+"10","Alabama",2020-03-19,"Risk communication","Educate and actively communicate with the public","Promote social distancing measures","Promote the 2m distance"
+"11","Alabama",2020-03-19,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Partial"
+"12","Alabama",2020-03-19,"Social distancing","Mass gathering cancellation","Closure of non-essential public places","Beaches"
+"13","Alabama",2020-03-19,"Social distancing","Measures for special populations","Measures to limit contact to long-term care facilities","Close long-term care facilities for visitors"
+"14","Alabama",2020-03-19,"Social distancing","Measures for special populations","Measures to limit contact to hospital patients","Close hospitals for visitors"
+"15","Alabama",2020-03-19,"Healthcare and public health capacity","Increase patient capacity","Postponement of non-essential care and non-urgent operations in hospitals",NA
+"16","Alabama",2020-03-19,"Resource allocation","Police and army interventions","To support essential workers","To assist healthcare professionals"
+"17","Alabama",2020-03-20,"Social distancing","Closure of educational institutions","Complete closure of kindergartens",NA
+"18","Alabama",2020-03-20,"Social distancing","Closure of educational institutions","Complete closure of primary and secondary schools",NA
+"19","Alabama",2020-03-20,"Social distancing","Closure of educational institutions","Complete closure of universities",NA
+"20","Alabama",2020-03-20,"Social distancing","Measures for special populations","Measures to limit contact to hospital patients","Closed to visitors"
+"21","Alabama",2020-03-20,"Social distancing","Mass gathering cancellation","Closure of adult daycare facilities","Closure of senior centers and adult daycare facilities"
+"22","Alabama",2020-03-21,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Economic support to small and medium enterprises"
+"23","Alabama",2020-03-23,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Partial or total deferral of tax payments for businesses"
+"24","Alabama",2020-03-26,"Social distancing","Mass gathering cancellation","Implement e-learning","Methodology for school digitalization"
+"25","Alabama",2020-03-26,"Resource allocation","Crisis management plans","Administrative procedures facilitated","Implement remote administrative procedures"
+"26","Alabama",2020-03-26,"Social distancing","Special measures for certain establishments","Prisons and youth detention centers","Summons in lieu of arrest"
+"27","Alabama",2020-03-28,"Social distancing","Small gathering cancellation","Restriction on private and familial events","Funerals and weddings: Limit up to 10 persons"
+"28","Alabama",2020-03-28,"Social distancing","Small gathering cancellation","Limit up to 10 persons","Except drive-in gatherings if the participants respect social distancing rules"
+"29","Alabama",2020-03-28,"Social distancing","Mass gathering cancellation","Cultural places and events","Closure of entertainment venues"
+"30","Alabama",2020-03-28,"Social distancing","Mass gathering cancellation","Indoor activities","Fitness centers and gyms"
+"31","Alabama",2020-03-28,"Social distancing","Small gathering cancellation","Closure of non-essential shops","Closure of barber shops, hair salons, waxing salons, thrading salons, nail salons and spas, body art facilities and tattoo services, massage therapy establishments and services"
+"32","Alabama",2020-03-30,"Risk communication","Educate and actively communicate with the public","Direct government communication","Promote social distancing measures"
+"33","Alabama",2020-04-01,"Risk communication","Actively communicate with managers","Provides recommendation for business continuity","Encourage small businesses to take financial advice"
+"34","Alabama",2020-04-02,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Expanded scope of practice of nurses/ physician assistant/anaesthesists/midwifes"
+"35","Alabama",2020-04-03,"Resource allocation","Crisis management plans","State aid, taxation and social security","Suspend evictions and foreclosures"
+"36","Alabama",2020-04-04,"Travel restriction","National lockdown","Stay-at-home Order",NA
+"37","Alabama",2020-04-06,"Risk communication","Educate and actively communicate with the public","Answer to questions","Official webpage with COVID-19 information"
+"38","Alabama",2020-04-12,"Resource allocation","Activate or establish emergency response","Declare state of emergency","Statewide"
+"39","Alabama",2020-04-12,"Resource allocation","Police and army interventions","To support the population","In affected areas"
+"40","Alabama",2020-04-12,"Resource allocation","Measures to ensure security of supply","Fixing price for necessity goods","Sale or rental of any commodity or rental facility"
+"41","Alabama",2020-04-12,"Resource allocation","Measures to ensure security of supply","Increase delivery capacity for necessity goods","Ease restrictions for transporters"
+"42","Alabama",2020-04-13,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Administrative hearing may be conducted by telephone or video conference without the parties being physically present"
+"43","Alabama",2020-04-16,"Healthcare and public health capacity","Enhance laboratory testing capacity","Increase laboratory facilities","Drive-in testing facilities"
+"44","Alabama",2020-04-24,"Risk communication","Actively communicate with managers","Direct government communication","To auto-insurers: share savings with consumers"
+"45","Alabama",2020-04-28,"Travel restriction","National lockdown","Safer-at-home Order",NA
+"46","Alabama",2020-04-30,"Risk communication","Educate and actively communicate with the public","Encourage stay at home",NA
+"47","Alabama",2020-04-30,"Risk communication","Educate and actively communicate with the public","Encourage hand hygiene","Recommendations for hand washing"
+"48","Alabama",2020-04-30,"Risk communication","Educate and actively communicate with the public","Respiratory etiquette","Promote the use of face masks"
+"49","Alabama",2020-04-30,"Risk communication","Educate and actively communicate with the public","Respiratory etiquette","Advice campaign for not touching eyes/nose/mouth"
+"50","Alabama",2020-04-30,"Risk communication","Educate and actively communicate with the public","Respiratory etiquette","Advice campaign for sneezing/coughing in the elbow"
+"51","Alabama",2020-04-30,"Risk communication","Educate and actively communicate with the public","Encourage environmental disinfection","Disinfecting frequently used items and surfaces as much as possible"
+"52","Alabama",2020-04-30,"Case identification, contact tracing and related measures","Isolation of cases","Place of residence",NA
+"53","Alabama",2020-04-30,"Risk communication","Actively communicate with managers","Recommendations for work safety protocols","Implement social distancing, protective and disinfection measures"
+"54","Alabama",2020-04-30,"Social distancing","Special measures for certain establishments","Establishments open to the public","Mandatory social distancing and hygienic measures"
+"55","Alabama",2020-04-30,"Social distancing","Special measures for certain establishments","Non-essential shops","Closure on week-end"
+"56","Alabama",2020-04-30,"Healthcare and public health capacity","Increase patient capacity","Postponement of non-essential care and non-urgent operations in hospitals",NA
+"57","Alabama",2020-04-30,"Returning to normal life","Lift restriction on mass gatherings","Re-opening of public places","Re-open beaches"
+"58","Alabama",2020-05-08,"Resource allocation","Crisis management plans","State aid, taxation and social security","Legal protection extended for essential workers"
+"59","Alaska",2020-03-02,"Resource allocation","Crisis management plans","Financial aid for health system","funding of temporary positions in Department of Health and Social Services"
+"60","Alaska",2020-03-02,"Resource allocation","Crisis management plans","Financial aid for health system","Preparedness and response"
+"61","Alaska",2020-03-11,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"62","Alaska",2020-03-11,"Resource allocation","Activate or establish emergency response","Risk management plan","Set up crisis unit (national)"
+"63","Alaska",2020-03-11,"Resource allocation","Police and army interventions","To support the population",NA
+"64","Alaska",2020-03-12,"Case identification, contact tracing and related measures","Quarantine","Contact persons","14 day home quarantine"
+"65","Alaska",2020-03-13,"Social distancing","Measures for special populations","Measures to limit contact to long-term care facilities","Close long-term care facilities for visitors"
+"66","Alaska",2020-03-13,"Social distancing","Special measures for certain establishments","Prisons and youth detention centers","Visit restriction in prisons and youth detention centers"
+"67","Alaska",2020-03-13,"Social distancing","Measures for special populations","Military Academy","Suspend public visitations to the Alaska Military Youth Academy"
+"68","Alaska",2020-03-16,"Social distancing","Closure of educational institutions","Complete closure of kindergartens",NA
+"69","Alaska",2020-03-16,"Social distancing","Closure of educational institutions","Complete closure of primary and secondary schools",NA
+"70","Alaska",2020-03-16,"Social distancing","Mass gathering cancellation","Cultural places and events","Libraries, archives, museums"
+"71","Alaska",2020-03-17,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Global economic support to workers, employers and businesses"
+"72","Alaska",2020-03-17,"Case identification, contact tracing and related measures","Quarantine","Incomings from high-risk areas",NA
+"73","Alaska",2020-03-17,"Social distancing","Measures for special populations","Travelers coming from outside state/country","Respect 2m distance"
+"74","Alaska",2020-03-18,"Social distancing","Mass gathering cancellation","Indoor activities","Hobby and leisure centres"
+"75","Alaska",2020-03-18,"Social distancing","Mass gathering cancellation","Indoor activities","Fitness centers and gyms"
+"76","Alaska",2020-03-19,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Total"
+"77","Alaska",2020-03-19,"Healthcare and public health capacity","Increase patient capacity","Postponement of non-essential care and non-urgent operations in hospitals",NA
+"78","Alaska",2020-03-19,"Healthcare and public health capacity","Increase patient capacity","Postponement of non-essential care and non-urgent operations in hospitals","Dentistry practices"
+"79","Alaska",2020-03-20,"Social distancing","Closure of educational institutions","Complete closure of kindergartens",NA
+"80","Alaska",2020-03-20,"Social distancing","Closure of educational institutions","Complete closure of primary and secondary schools",NA
+"81","Alaska",2020-03-21,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Facilitate loans for entrepreneurs and businesses"
+"82","Alaska",2020-03-24,"Social distancing","Small gathering cancellation","Closure of non-essential shops","Partial"
+"83","Alaska",2020-03-25,"Case identification, contact tracing and related measures","Quarantine","Incoming travelers","All"
+"84","Alaska",2020-03-25,"Social distancing","Small gathering cancellation","Limit up to 10 persons",NA
+"85","Alaska",2020-03-26,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"86","Alaska",2020-03-26,"Social distancing","Mass gathering cancellation","Implement e-learning","Increase internet speed for students"
+"87","Alaska",2020-03-28,"Social distancing","Small gathering cancellation","Mandatory home office",NA
+"88","Alaska",2020-03-28,"Case identification, contact tracing and related measures","Isolation of cases",NA,NA
+"89","Alaska",2020-03-28,"Social distancing","Measures for special populations","People having outdoor activities","Respect 2m distance"
+"90","Alaska",2020-03-28,"Social distancing","Small gathering cancellation","Complete prohibition of gathering","Bans on gathering of non-household members"
+"91","Alaska",2020-03-28,"Risk communication","Educate and actively communicate with the public","Direct advice to vulnerable populations","Homeless people urged to seek shelter"
+"92","Alaska",2020-03-28,"Risk communication","Actively communicate with managers","Recommendations for work safety protocols","For essential services and critical infrastructures"
+"93","Alaska",2020-03-28,"Resource allocation","Police and army interventions","To support law enforcement/sanction in case of no compliance","To enforce social distancing"
+"94","Alaska",2020-03-28,"Social distancing","Mass gathering cancellation","Closure of non-essential working places","All"
+"95","Alaska",2020-03-28,"Travel restriction","Individual movement restrictions","Non-essential travels abroad/out-of-state forbidden","Interstate travels forbidden"
+"96","Alaska",2020-03-28,"Travel restriction","Individual movement restrictions","Movements for non-essential<U+00A0>activities forbidden","All people not engaged in essential activities"
+"97","Alaska",2020-03-28,"Social distancing","Small gathering cancellation","Restriction on private and familial events","Prohibition of funerals and weddings"
+"98","Alaska",2020-03-31,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Facilitate loans for entrepreneurs and businesses"
+"99","Alaska",2020-04-02,"Risk communication","Educate and actively communicate with the public","Answer to questions","Corona dashboard"
+"100","Alaska",2020-04-06,"Healthcare and public health capacity","Increase availability of PPE","PPE other than face masks","For rural communities"
+"101","Alaska",2020-04-06,"Healthcare and public health capacity","Increase availability of PPE","Face masks","For rural communities"
+"102","Alaska",2020-04-06,"Healthcare and public health capacity","Increase in medical supplies and equipment","Diverse medical materials and equipment","For rural communities"
+"103","Alaska",2020-04-09,"Resource allocation","Crisis management plans","Repurpose government plans","Emergency funds"
+"104","Alaska",2020-04-09,"Social distancing","Closure of educational institutions","Complete closure of all educational institutions",NA
+"105","Alaska",2020-04-13,"Healthcare and public health capacity","Increase isolation and quarantine facilities","Quarantine centers","Short-term accommodations repurposed into quarantine facilities"
+"106","Alaska",2020-04-14,"Social distancing","Special measures for certain establishments","Alcohol sellers","Alcoholic beverages can be delivered"
+"107","Alaska",2020-04-20,"Returning to normal life","Access to non-essential/critical healthcare services","Re-opening of medical and paramedical centers","Resume services that require minimal protective equipment and safety protocols for pre-screening"
+"108","Alaska",2020-04-21,"Resource allocation","Crisis management plans","Repurpose government plans","Emergency funds"
+"109","Alaska",2020-04-23,"Returning to normal life","Lift travel restriction","Lift maritime restriction","Resume commercial fishing activity"
+"110","Alaska",2020-04-24,"Returning to normal life","Lift restriction on small gatherings","Re-opening of certain shops","Barbers, nail salons, hairdressers"
+"111","Alaska",2020-04-24,"Returning to normal life","Actively communicate with managers","Guidelines for re-opening short-term accommodations","Lodging and overnight camping"
+"112","Alaska",2020-04-24,"Returning to normal life","Actively communicate with managers","Guidelines for re-opening gyms and fitness centers",NA
+"113","Alaska",2020-04-24,"Returning to normal life","Actively communicate with managers","Guidelines for re-opening of educational institutions and leisure facilities","Childcare and day camps"
+"114","Alaska",2020-05-04,"Returning to normal life","Access to non-essential/critical healthcare services","Re-opening of medical and paramedical centers","Resume non-urgent or elective procedure"
+"115","Alaska",2020-05-08,"Returning to normal life","Lift restriction on small gatherings","Re-opening of restaurants/bars/cafes","50% capacity"
+"116","Alaska",2020-05-08,"Returning to normal life","Lift restriction on mass gatherings","Re-opening of indoor sport facilities","Re-opening of swimming pools"
+"117","Alaska",2020-05-08,"Returning to normal life","Lift restriction on small gatherings","Re-opening of certain shops","50% capacity"
+"118","Arizona",2020-02-27,"Resource allocation","Activate or establish emergency response","Risk management plan","Set up crisis unit (national)"
+"119","Arizona",2020-03-02,"Healthcare and public health capacity","Enhance laboratory testing capacity","Increase laboratory facilities","Certification of laboratory"
+"120","Arizona",2020-03-04,"Resource allocation","Crisis management plans","Repurpose government plans","Emergency funds"
+"121","Arizona",2020-03-11,"Resource allocation","Crisis management plans","Financial aid for health system","From CDC"
+"122","Arizona",2020-03-11,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"123","Arizona",2020-03-12,"Resource allocation","Crisis management plans","Financial aid for health system","Public Health Emergency Fund"
+"124","Arizona",2020-03-16,"Social distancing","Closure of educational institutions","Complete closure of kindergartens",NA
+"125","Arizona",2020-03-16,"Social distancing","Closure of educational institutions","Complete closure of primary and secondary schools",NA
+"126","Arizona",2020-03-17,"Social distancing","Small gathering cancellation","Limit up to 10 persons",NA
+"127","Arizona",2020-03-19,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Facilitate loans for entrepreneurs and businesses"
+"128","Arizona",2020-03-19,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Extension of driving licence"
+"129","Arizona",2020-03-19,"Healthcare and public health capacity","Increase patient capacity","Postponement of non-essential care and non-urgent operations in hospitals",NA
+"130","Arizona",2020-03-19,"Resource allocation","Police and army interventions","To support the population","To help for food provision"
+"131","Arizona",2020-03-20,"Resource allocation","Crisis management plans","State aid, taxation and social security","Tax relief measures"
+"132","Arizona",2020-03-20,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"133","Arizona",2020-03-21,"Healthcare and public health capacity","Increase availability of PPE","PPE other than face masks","Shipment of more than 440,000 PPE"
+"134","Arizona",2020-03-21,"Healthcare and public health capacity","Increase availability of PPE","Face masks","Shipment of more than 440,000 PPE"
+"135","Arizona",2020-03-22,"Risk communication","Educate and actively communicate with the public","Answer to questions","Telephone hotline covid-19"
+"136","Arizona",2020-03-23,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Expanded scope of practice of nurses/ physician assistant/anaesthesists/midwifes"
+"137","Arizona",2020-03-23,"Case identification, contact tracing and related measures","Activate case notification","Mandatory report of test results by laboratories",NA
+"138","Arizona",2020-03-23,"Resource allocation","Activate or establish emergency response","Relaxation of data protection law","Enable access to confidential patient information"
+"139","Arizona",2020-03-23,"Case identification, contact tracing and related measures","Surveillance","Obligation of reporting data on COVID-19 patients",NA
+"140","Arizona",2020-03-24,"Resource allocation","Crisis management plans","State aid, taxation and social security","Measures to protect renters and house owners"
+"141","Arizona",2020-03-24,"Healthcare and public health capacity","Increase availability of PPE","Face masks",NA
+"142","Arizona",2020-03-24,"Healthcare and public health capacity","Increase availability of PPE","PPE for healthcare professionals","Face masks"
+"143","Arizona",2020-03-24,"Resource allocation","The government provide assistance to vulnerable populations","Funds to expand support and services for vulnerable populations","Government support non-profit organisation to help the population"
+"144","Arizona",2020-03-24,"Resource allocation","Crisis management plans","State aid, taxation and social security","Provide access to healthcare to vulnerable populations"
+"145","Arizona",2020-03-25,"Resource allocation","Crisis management plans","Financial aid for health system",NA
+"146","Arizona",2020-03-25,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Recruitment of healthcare workers on the frontline"
+"147","Arizona",2020-03-25,"Healthcare and public health capacity","Adapt procedures for patient management","Simplification of the health journey","Health insurance companies cover the cost of telemedicine"
+"148","Arizona",2020-03-25,"Resource allocation","The government provide assistance to vulnerable populations","The government provides food assistance","Provide meals for older adults"
+"149","Arizona",2020-03-26,"Resource allocation","Measures to ensure security of supply","Insure access to gas/electricity/water/telecommunications","Flexibility in bill payment for vulnerable customers"
+"150","Arizona",2020-03-26,"Healthcare and public health capacity","Adapt procedures for patient management","Case management","Hospitals prepared to treat Covid-19 patients"
+"151","Arizona",2020-03-26,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Reactivate license/renew license of healthcare workers"
+"152","Arizona",2020-03-26,"Social distancing","Measures for special populations","Measures to limit contact to the elderly","Waive administrative requirements for the elderly"
+"153","Arizona",2020-03-27,"Social distancing","Mass gathering cancellation","Implement e-learning",NA
+"154","Arizona",2020-03-27,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"155","Arizona",2020-03-28,"Resource allocation","Crisis management plans","Repurpose government plans","Emergency funds"
+"156","Arizona",2020-03-30,"Resource allocation","Crisis management plans","State aid, taxation and social security","Measures to protect renters and house owners"
+"157","Arizona",2020-03-30,"Travel restriction","National lockdown","Stay-at-home Order",NA
+"158","Arizona",2020-03-30,"Risk communication","Educate and actively communicate with the public","Information campaign","Encourage social connectedness"
+"159","Arizona",2020-03-30,"Resource allocation","Crisis management plans","State aid, taxation and social security","Suspend evictions and foreclosures"
+"160","Arizona",2020-03-30,"Resource allocation","The government provide assistance to vulnerable populations","The government provides food assistance","Fund dedicated to food bank"
+"161","Arizona",2020-03-31,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Partial or total deferral of tax payments for businesses"
+"162","Arizona",2020-04-01,"Resource allocation","Crisis management plans","State aid, taxation and social security","Tax relief measures"
+"163","Arizona",2020-04-01,"Social distancing","Special measures for certain establishments","Veterinary clinics","Allow telemedicine for pets"
+"164","Arizona",2020-04-01,"Resource allocation","Crisis management plans","Repurpose government plans","Emergency funds"
+"165","Arizona",2020-04-02,"Risk communication","Educate and actively communicate with the public","Direct government communication","Live interview to answer questions"
+"166","Arizona",2020-04-02,"Healthcare and public health capacity","Adapt procedures for patient management","Ease prescription of regular medical products for patients","Ease prescription renewal"
+"167","Arizona",2020-04-03,"Resource allocation","Crisis management plans","Repurpose government plans","Emergency funds"
+"168","Arizona",2020-04-04,"Healthcare and public health capacity","Increase availability of PPE","Face masks","Domestic production"
+"169","Arizona",2020-04-04,"Resource allocation","Crisis management plans","Repurpose government plans","Emergency funds"
+"170","Arizona",2020-04-06,"Resource allocation","Crisis management plans","State aid, taxation and social security","State supports childcare if parents are doing essential work"
+"171","Arizona",2020-04-06,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Suspend evictions and foreclosures"
+"172","Arizona",2020-04-07,"Resource allocation","Measures to ensure security of supply","Increase delivery capacity for medical supplies","Ease restrictions for transporters"
+"173","Arizona",2020-04-07,"Resource allocation","Measures to ensure security of supply","Increase delivery capacity for food products","Ease restrictions for transporters"
+"174","Arizona",2020-04-07,"Resource allocation","The government provide assistance to vulnerable populations","Funds to expand support and services for vulnerable populations","Government support non-profit organisation to help the population"
+"175","Arizona",2020-04-07,"Case identification, contact tracing and related measures","Quarantine","Incoming travelers","By air"
+"176","Arizona",2020-04-07,"Healthcare and public health capacity","Personal protective measures","Mandatory use of PPE","In hospitals and nursing homes"
+"177","Arizona",2020-04-07,"Case identification, contact tracing and related measures","Enhance detection system","Health evaluation of visitors before access to specific institutions","Health check for people entering nursing homes and long term facilities"
+"178","Arizona",2020-04-07,"Social distancing","Measures for special populations","Measures to limit contact to the elderly","Offer electronic means of communication in long-term facilities"
+"179","Arizona",2020-04-07,"Case identification, contact tracing and related measures","Isolation of cases","Must be implemented in long-term care facilities",NA
+"180","Arizona",2020-04-07,"Case identification, contact tracing and related measures","Surveillance","Obligation of reporting data on COVID-19 patients","Data on patients and materials in long-term facilites"
+"181","Arizona",2020-04-07,"Case identification, contact tracing and related measures","Surveillance","Obligation of reporting data on COVID-19 patients","Data on patients and materials on hospitals"
+"182","Arizona",2020-04-07,"Social distancing","Special measures for certain establishments","Grocery stores","Ease regulations on packaging and labelling of food"
+"183","Arizona",2020-04-08,"Resource allocation","The government provide assistance to vulnerable populations","The government provides food assistance","Food assistance program"
+"184","Arizona",2020-04-08,"Social distancing","Mass gathering cancellation","Implement e-learning","Donate internet hotspots to students in need"
+"185","Arizona",2020-04-09,"Healthcare and public health capacity","Increase healthcare workforce","Incentives for healthcare workers","Increase legal protection of healthcare professionals"
+"186","Arizona",2020-04-09,"Healthcare and public health capacity","Increase patient capacity","Emergency hospitals","Reopening of a former hospital"
+"187","Arizona",2020-04-10,"Resource allocation","Crisis management plans","Administrative procedures facilitated","Allow remote notarization"
+"188","Arizona",2020-04-10,"Healthcare and public health capacity","Increase in medical supplies and equipment","Ventilators",NA
+"189","Arizona",2020-04-13,"Resource allocation","Crisis management plans","Repurpose government plans","Emergency funds"
+"190","Arizona",2020-04-14,"Case identification, contact tracing and related measures","Enhance detection system","Targeted testing","Test healthcare workers"
+"191","Arizona",2020-04-15,"Resource allocation","Measures to ensure security of supply","Increase delivery capacity for food products","Open rest areas for interstate food trucks"
+"192","Arizona",2020-04-17,"Healthcare and public health capacity","Increase availability of PPE","Face masks","Donation"
+"193","Arizona",2020-04-21,"Resource allocation","The government provide assistance to vulnerable populations","The government provides food assistance","To school students"
+"194","Arizona",2020-04-22,"Resource allocation","The government provide assistance to vulnerable populations","The government provides food assistance","To traditional peoples and communities"
+"195","Arizona",2020-04-22,"Returning to normal life","Access to non-essential/critical healthcare services","Re-opening of medical and paramedical centers","Resume services that require minimal protective equipment and safety protocols for pre-screening"
+"196","Arizona",2020-04-22,"Returning to normal life","Access to non-essential/critical healthcare services","Re-opening of medical and paramedical centers","Resume non-urgent or elective procedure"
+"197","Arizona",2020-04-27,"Healthcare and public health capacity","Enhance laboratory testing capacity","Increase laboratory facilities","Extend testing capacity to private institutions"
+"198","Arizona",2020-05-04,"Returning to normal life","Lift restriction on small gatherings","Re-opening of certain shops","With respect to social distancing"
+"199","California",2020-02-27,"Risk communication","Educate and actively communicate with the public","Information campaign","Twitter: public briefings on State's response to covid-19"
+"200","California",2020-03-04,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"201","California",2020-03-11,"Social distancing","Mass gathering cancellation","Limit up to 250 persons",NA
+"202","California",2020-03-11,"Risk communication","Educate and actively communicate with the public","Promote social distancing measures","Promote the 2m distance"
+"203","California",2020-03-16,"Risk communication","Educate and actively communicate with the public","Encourage stay at home","Advice for vulnerable populations"
+"204","California",2020-03-16,"Risk communication","Educate and actively communicate with the public","Respiratory etiquette",NA
+"205","California",2020-03-16,"Risk communication","Educate and actively communicate with the public","Encourage hand hygiene",NA
+"206","California",2020-03-16,"Resource allocation","Crisis management plans","State aid, taxation and social security","Measures to protect renters and house owners"
+"207","California",2020-03-17,"Resource allocation","Crisis management plans","Financial aid for health system","Financial aid to increase bed capacity in hospitals"
+"208","California",2020-03-17,"Resource allocation","Police and army interventions","To support the population","Humanitarian missions"
+"209","California",2020-03-18,"Resource allocation","The government provide assistance to vulnerable populations","Funds to expand support and services for vulnerable populations","Homeless persons"
+"210","California",2020-03-18,"Risk communication","Educate and actively communicate with the public","Answer to questions","Official webpage with COVID-19 information"
+"211","California",2020-03-19,"Travel restriction","National lockdown","Stay-at-home Order",NA
+"212","California",2020-03-19,"Healthcare and public health capacity","Increase availability of PPE","PPE for healthcare professionals","Prioritize PPE distribution to healthcare professionals"
+"213","California",2020-03-19,"Healthcare and public health capacity","Adapt procedures for patient management","Implement triage procedures","Prioritize care"
+"214","California",2020-03-20,"Risk communication","Educate and actively communicate with the public","Foster community assistance","Call for volunteers to food banks"
+"215","California",2020-03-20,"Social distancing","Mass gathering cancellation","Measures for elections","Extended vote-by-mail procedures for elections"
+"216","California",2020-03-21,"Social distancing","Special measures for certain establishments","Prisons and youth detention centers","Reduction of visits"
+"217","California",2020-03-21,"Social distancing","Measures for special populations","Measures to limit contact to long-term care facilities","Recommendation to reduce contact to long-term care facilities"
+"218","California",2020-03-21,"Resource allocation","Crisis management plans","Financial aid for health system",NA
+"219","California",2020-03-21,"Healthcare and public health capacity","Adapt procedures for patient management","Case management","Hospitals prepared to treat Covid-19 patients"
+"220","California",2020-03-21,"Healthcare and public health capacity","Increase in medical supplies and equipment","Diverse medical materials and equipment","Ventilators and IV fusion pumps"
+"221","California",2020-03-21,"Healthcare and public health capacity","Increase availability of PPE","PPE other than face masks",NA
+"222","California",2020-03-21,"Healthcare and public health capacity","Increase availability of PPE","Face masks",NA
+"223","California",2020-03-22,"Resource allocation","Crisis management plans","Repurpose government plans","Emergency funds"
+"224","California",2020-03-25,"Social distancing","Special measures for certain establishments","Prisons and youth detention centers","Stop intake and transfer of prisoners"
+"225","California",2020-03-25,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Distance court hearings and depositions"
+"226","California",2020-03-25,"Resource allocation","Crisis management plans","State aid, taxation and social security","Tax and loan relief measures"
+"227","California",2020-03-27,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"228","California",2020-03-27,"Resource allocation","Crisis management plans","State aid, taxation and social security","Suspend evictions and foreclosures"
+"229","California",2020-03-27,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Distance court hearings and depositions"
+"230","California",2020-03-28,"Healthcare and public health capacity","Increase in medical supplies and equipment","Ventilators","Domestic production"
+"231","California",2020-03-28,"Healthcare and public health capacity","Increase availability of PPE","PPE for healthcare professionals","Domestic production"
+"232","California",2020-03-28,"Healthcare and public health capacity","Increase availability of PPE","Hand sanitizers","For vulnerable populations"
+"233","California",2020-03-29,"Risk communication","Educate and actively communicate with the public","Information campaign","Partnership with leading social media companies, businesses, leaders, and individuals from across the state"
+"234","California",2020-03-30,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Recruitment of healthcare workers on the frontline"
+"235","California",2020-03-30,"Healthcare and public health capacity","Increase patient capacity","Beds",NA
+"236","California",2020-03-30,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Partial or total deferral of tax payments for businesses"
+"237","California",2020-03-30,"Social distancing","Measures for special populations","More exposed professionals (not healthcare)","Government workers (administration)"
+"238","California",2020-03-31,"Risk communication","Educate and actively communicate with the public","Communication targets protection of vulnerable populations","Campaign for protecting the elderly"
+"239","California",2020-03-31,"Risk communication","Educate and actively communicate with the public","Answer to questions","Telephone hotline covid-19"
+"240","California",2020-03-31,"Risk communication","Educate and actively communicate with the public","Encourage stay at home","Recommend the elderly to stay at home"
+"241","California",2020-04-01,"Social distancing","Mass gathering cancellation","Implement e-learning",NA
+"242","California",2020-04-01,"Social distancing","Mass gathering cancellation","Implement e-learning","Mobile hotspots and Chromebooks in rural areas"
+"243","California",2020-04-01,"Resource allocation","Crisis management plans","Financial aid for health system",NA
+"244","California",2020-04-02,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Facilitate loans for entrepreneurs and businesses"
+"245","California",2020-04-02,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Economic support to the most affected workers and businesses"
+"246","California",2020-04-02,"Resource allocation","Measures to ensure security of supply","Insure access to gas/electricity/water/telecommunications","Prevent water shut-off"
+"247","California",2020-04-03,"Resource allocation","The government provide assistance to vulnerable populations","The government provides accommodations","For homeless people"
+"248","California",2020-04-03,"Resource allocation","Measures to ensure security of supply","Fixing price for necessity goods","Food"
+"249","California",2020-04-03,"Resource allocation","Measures to ensure security of supply","Fixing price for medical supplies",NA
+"250","California",2020-04-03,"Healthcare and public health capacity","Adapt procedures for patient management","Simplification of the health journey","Authorize telemedicine"
+"251","California",2020-04-04,"Healthcare and public health capacity","Increase in medical supplies and equipment","Secure necessary medical equipment stocks and distribution","Website"
+"252","California",2020-04-04,"Resource allocation","Crisis management plans","State aid, taxation and social security","Expand child care access for essential persons"
+"253","California",2020-04-06,"Healthcare and public health capacity","Increase in medical supplies and equipment","Ventilators",NA
+"254","California",2020-04-06,"Healthcare and public health capacity","Increase patient capacity","Beds",NA
+"255","California",2020-04-07,"Resource allocation","Measures to ensure security of supply","Fixing price for medical supplies","Lift taxes on medical supplies"
+"256","California",2020-04-07,"Resource allocation","The government provide assistance to vulnerable populations","Implement community support","Home care for elderly and vulnerable children"
+"257","California",2020-04-09,"Healthcare and public health capacity","Increase healthcare workforce","Incentives for healthcare workers","Ease accommodation for healthcare professionals"
+"258","California",2020-04-09,"Healthcare and public health capacity","Increase healthcare workforce","Incentives for healthcare workers","Ease transport of health workers"
+"259","California",2020-04-09,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"260","California",2020-04-09,"Social distancing","Mass gathering cancellation","Measures for elections","Extended vote-by-mail procedures for elections"
+"261","California",2020-04-10,"Healthcare and public health capacity","Increase healthcare workforce","Train medical staff especially for covid-19","Nurses"
+"262","California",2020-04-10,"Resource allocation","Crisis management plans","State aid, taxation and social security","State supports childcare if parents are doing essential work"
+"263","California",2020-04-13,"Resource allocation","The government provide assistance to vulnerable populations","Funds to expand support and services for vulnerable populations",NA
+"264","California",2020-04-14,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Simplified hearing and incarceration procedures for minors"
+"265","California",2020-04-16,"Resource allocation","Crisis management plans","State aid, taxation and social security","Support workers from large employers in the food sector industry"
+"266","California",2020-04-16,"Resource allocation","Crisis management plans","Administrative procedures facilitated","Flexibility for admission to universities"
+"267","California",2020-04-17,"Resource allocation","Activate or establish emergency response","Risk management plan","Set up crisis unit (national)"
+"268","California",2020-04-17,"Resource allocation","Crisis management plans","Administrative procedures facilitated","Flexibility in the emergency placement of foster youth"
+"269","California",2020-04-21,"Risk communication","Educate and actively communicate with the public","Foster community assistance","Call for volunteers to help others stay at home"
+"270","California",2020-04-22,"Returning to normal life","Access to non-essential/critical healthcare services","Re-opening of medical and paramedical centers","Re-opening of hospitals for non urgent cares"
+"271","California",2020-04-23,"Resource allocation","Crisis management plans","State aid, taxation and social security","Facilitate loans for students"
+"272","California",2020-04-23,"Social distancing","Mass gathering cancellation","Implement e-learning",NA
+"273","California",2020-04-23,"Healthcare and public health capacity","Adapt procedures for patient management","Ease prescription of regular medical products for patients","Ease prescription renewal"
+"274","California",2020-04-23,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Extension of driving licence"
+"275","California",2020-04-23,"Social distancing","Measures for special populations","More exposed professionals (not healthcare)","Workers handling reusable grocery bags and recyclable containers"
+"276","California",2020-04-24,"Resource allocation","The government provide assistance to vulnerable populations","The government provides food assistance","For elderly"
+"277","California",2020-04-29,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Support to the agri-food sector"
+"278","California",2020-04-30,"Resource allocation","Crisis management plans","State aid, taxation and social security","State supports childcare if parents are doing essential work"
+"279","California",2020-04-30,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Marriage<U+00A0>license via<U+00A0>videoconference"
+"280","California",2020-05-01,"Resource allocation","The government provide assistance to vulnerable populations","Insure access to gas/electricity/water/telecommunications","Faciliate access to Internet"
+"281","California",2020-05-01,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Waive in-person identification requirements for certain procedures"
+"282","Colorado",2020-03-10,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"283","Colorado",2020-03-12,"Social distancing","Measures for special populations","Measures to limit contact to hospital patients","Recommendation to reduce contact to hospital patients"
+"284","Colorado",2020-03-12,"Social distancing","Measures for special populations","Measures to limit contact to long-term care facilities","Recommendation to reduce contact to long-term care facilities"
+"285","Colorado",2020-03-16,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Total"
+"286","Colorado",2020-03-16,"Social distancing","Mass gathering cancellation","Cultural places and events",NA
+"287","Colorado",2020-03-18,"Risk communication","Educate and actively communicate with the public","Foster community assistance","Encourage donation for covid19 crisis"
+"288","Colorado",2020-03-19,"Social distancing","Small gathering cancellation","Limit up to 10 persons",NA
+"289","Colorado",2020-03-19,"Resource allocation","Crisis management plans","State aid, taxation and social security","Extension of health insurance"
+"290","Colorado",2020-03-23,"Social distancing","Closure of educational institutions","Complete closure of kindergartens",NA
+"291","Colorado",2020-03-23,"Social distancing","Closure of educational institutions","Complete closure of primary and secondary schools",NA
+"292","Colorado",2020-03-23,"Social distancing","Closure of educational institutions","Complete closure of universities",NA
+"293","Colorado",2020-03-23,"Social distancing","Mass gathering cancellation","Outdoor activities","Closure of ski resorts"
+"294","Colorado",2020-03-23,"Healthcare and public health capacity","Increase patient capacity","Postponement of non-essential care and non-urgent operations in hospitals",NA
+"295","Colorado",2020-03-25,"Risk communication","Actively communicate with managers","Recommendations for work safety protocols","For local government and law enforcement agencies"
+"296","Colorado",2020-03-26,"Travel restriction","National lockdown","Stay-at-home Order",NA
+"297","Colorado",2020-03-26,"Social distancing","Small gathering cancellation","Closure of non-essential shops",NA
+"298","Colorado",2020-03-26,"Social distancing","Mass gathering cancellation","Closure of non-essential working places",NA
+"299","Colorado",2020-03-26,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Extension of work licenses"
+"300","Colorado",2020-03-26,"Social distancing","Special measures for certain establishments","Prisons and youth detention centers","Increase flexibility in protocols"
+"301","Colorado",2020-03-27,"Resource allocation","Measures to ensure security of supply","Increase delivery capacity for medical supplies","Ease restrictions for transporters"
+"302","Colorado",2020-03-27,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"303","Colorado",2020-03-29,"Resource allocation","Crisis management plans","Repurpose government plans","Emergency funds"
+"304","Colorado",2020-03-29,"Resource allocation","Crisis management plans","Administrative procedures facilitated","Allow remote notarization"
+"305","Colorado",2020-03-31,"Resource allocation","Activate or establish emergency response","Exceptional change to work law","Facilitate work of immigrants"
+"306","Colorado",2020-04-01,"Healthcare and public health capacity","Adapt procedures for patient management","Simplification of the health journey","Expand the use of and access to telemedicine"
+"307","Colorado",2020-04-01,"Risk communication","Actively communicate with managers","Guidelines","To implement social distancing (state agencies)"
+"308","Colorado",2020-04-01,"Travel restriction","Individual movement restrictions","Movements for non-essential<U+00A0>activities forbidden","Recommendation to not go to secondary home"
+"309","Colorado",2020-04-03,"Risk communication","Actively communicate with managers","Guidelines","To implement social distancing (municipal elections)"
+"310","Colorado",2020-04-03,"Risk communication","Educate and actively communicate with the public","Respiratory etiquette","Promote the use of face masks"
+"311","Colorado",2020-04-03,"Resource allocation","Crisis management plans","State aid, taxation and social security","For vulnerable populations"
+"312","Colorado",2020-04-03,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"313","Colorado",2020-04-03,"Resource allocation","Crisis management plans","State aid, taxation and social security","Tax relief measures"
+"314","Colorado",2020-04-06,"Resource allocation","Crisis management plans","State aid, taxation and social security","Suspend evictions and foreclosures"
+"315","Colorado",2020-04-06,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"316","Colorado",2020-04-06,"Resource allocation","Crisis management plans","State aid, taxation and social security","Tax relief measures"
+"317","Colorado",2020-04-06,"Resource allocation","Crisis management plans","Administrative procedures facilitated","Obtention of marriage licenses facilitated"
+"318","Colorado",2020-04-08,"Risk communication","Actively communicate with managers","Guidelines","To implement social distancing (faith leaders for religious celebrations)"
+"319","Colorado",2020-04-10,"Healthcare and public health capacity","Increase patient capacity","Increase number of medical institutions","Convert convention center"
+"320","Colorado",2020-04-10,"Risk communication","Educate and actively communicate with the public","Answer to questions","Online service covid-19"
+"321","Colorado",2020-04-10,"Resource allocation","Crisis management plans","State aid, taxation and social security","State aid for vulnerable populations"
+"322","Colorado",2020-04-11,"Social distancing","Special measures for certain establishments","Prisons and youth detention centers","Suspend certain regulatory statutes"
+"323","Colorado",2020-04-13,"Risk communication","Actively communicate with managers","Encourage stakeholders to provide assistance to vulnerable populations","Encourage owners of accommodation to shelter homeless people"
+"324","Colorado",2020-04-13,"Resource allocation","Police and army interventions","To support the population","To help vulnerable populations"
+"325","Colorado",2020-04-13,"Resource allocation","Police and army interventions","To collect data and samples for tests","Testing"
+"326","Colorado",2020-04-13,"Resource allocation","Activate or establish emergency response","Relaxation of data protection law","Enable access to confidential patient information"
+"327","Colorado",2020-04-14,"Resource allocation","Crisis management plans","State aid, taxation and social security","Expand child care access for essential persons"
+"328","Colorado",2020-04-15,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Expanded scope of practice of nurses/ physician assistant/anaesthesists/midwifes"
+"329","Colorado",2020-04-15,"Resource allocation","Activate or establish emergency response","Repurpose domestic forces","Reduce need of repurposed forces for other purposes than Covid-19"
+"330","Colorado",2020-04-17,"Healthcare and public health capacity","Increase isolation and quarantine facilities","Isolation centers","In long-term care facilities"
+"331","Colorado",2020-04-17,"Case identification, contact tracing and related measures","Enhance detection system","Targeted testing","Test strategy implemented in institutions hosting vulnerable population: test of healthcare providers"
+"332","Colorado",2020-04-17,"Social distancing","Measures for special populations","Measures to limit contact to long-term care facilities","Restrictions for visitors"
+"333","Colorado",2020-04-17,"Resource allocation","Police and army interventions","To collect data and samples for tests","Testing"
+"334","Colorado",2020-04-17,"Healthcare and public health capacity","Increase patient capacity","Increase number of medical institutions","Convert convention center"
+"335","Colorado",2020-04-17,"Healthcare and public health capacity","Personal protective measures","Mandatory use of masks","For workers in contact with the public"
+"336","Colorado",2020-04-17,"Resource allocation","Activate or establish emergency response","Relaxation of data protection law","Data on ethnicity of Covid-19 patients"
+"337","Colorado",2020-04-20,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"338","Colorado",2020-04-22,"Risk communication","Actively communicate with managers","Guidelines","To implement social distancing (workplaces)"
+"339","Colorado",2020-04-23,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Extension of work licenses"
+"340","Colorado",2020-04-24,"Healthcare and public health capacity","Enhance laboratory testing capacity","Increase testing capacity (number tests)","Increase test availability"
+"341","Colorado",2020-04-24,"Case identification, contact tracing and related measures","Enhance detection system","Targeted testing","Caregivers for vulnerable groups"
+"342","Colorado",2020-04-27,"Resource allocation","Activate or establish emergency response","Risk management plan","New task force"
+"343","Colorado",2020-04-27,"Returning to normal life","Phase out emergency management","Lift state of emergency","Downgrade level of emergency"
+"344","Colorado",2020-04-29,"Healthcare and public health capacity","Increase healthcare workforce","Train medical staff especially for covid-19","Train medical staff to perform case identification and contact tracing"
+"345","Colorado",2020-04-30,"Healthcare and public health capacity","Adapt procedures for patient management","Simplification of the health journey","Expand the use of and access to telemedicine"
+"346","Colorado",2020-04-30,"Resource allocation","Crisis management plans","Financial aid for health system","For nursing homes and care facilities"
+"347","Colorado",2020-05-01,"Resource allocation","Activate or establish emergency response","Risk management plan","Set up crisis unit (national)"
+"348","Colorado",2020-05-01,"Resource allocation","Crisis management plans","Repurpose government plans","Funding to community-based organisations"
+"349","Colorado",2020-05-01,"Social distancing","Closure of educational institutions","Complete closure of universities",NA
+"350","Colorado",2020-05-01,"Risk communication","Educate and actively communicate with the public","Direct advice to vulnerable populations","Recommend the elderly to stay at home"
+"351","Colorado",2020-05-01,"Social distancing","Mass gathering cancellation","Indoor activities","Fitness centers and gyms"
+"352","Colorado",2020-05-01,"Returning to normal life","Lift restriction on small gatherings","Re-opening of certain shops","Salons, tattoo parlors, dog grooming, personal training"
+"353","Colorado",2020-05-01,"Returning to normal life","Lift restriction on small gatherings","Limit up to 10 persons",NA
+"354","Colorado",2020-05-01,"Returning to normal life","Lift restriction on small gatherings","Re-opening of certain shops","Retail entities"
+"355","Colorado",2020-05-01,"Returning to normal life","Access to non-essential/critical healthcare services","Re-opening of medical and paramedical centers","Resume non-urgent or elective procedure"
+"356","Colorado",2020-05-04,"Returning to normal life","Lift restriction on mass gatherings","Re-opening of workplaces","50% capacity"
+"357","Colorado",2020-05-04,"Risk communication","Actively communicate with managers","Recommendations for work safety protocols","Encourage home office"
+"358","Connecticut",2020-03-10,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"359","Connecticut",2020-03-12,"Social distancing","Mass gathering cancellation","Limit up to 250 persons",NA
+"360","Connecticut",2020-03-12,"Social distancing","Measures for special populations","Measures to limit contact to long-term care facilities","Recommendation to reduce contact to long-term care facilities"
+"361","Connecticut",2020-03-12,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Extension of driving licence"
+"362","Connecticut",2020-03-14,"Healthcare and public health capacity","Personal protective measures","Enhance hand hygiene","Allowing licensed pharmacies to make and sell alcohol-based hand sanitizers"
+"363","Connecticut",2020-03-15,"Social distancing","Measures for special populations","Measures to limit contact to long-term care facilities","Recommendation to reduce contact to long-term care facilities"
+"364","Connecticut",2020-03-16,"Social distancing","Mass gathering cancellation","Limit up to 50 persons",NA
+"365","Connecticut",2020-03-16,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Partial"
+"366","Connecticut",2020-03-16,"Social distancing","Small gathering cancellation","Closure of non-essential shops","Closure of off-track betting facility operations"
+"367","Connecticut",2020-03-16,"Social distancing","Mass gathering cancellation","Indoor activities","Fitness centers and gyms"
+"368","Connecticut",2020-03-16,"Social distancing","Mass gathering cancellation","Cultural places and events","Closure of movie theatres"
+"369","Connecticut",2020-03-17,"Social distancing","Closure of educational institutions","Complete closure of kindergartens",NA
+"370","Connecticut",2020-03-17,"Social distancing","Closure of educational institutions","Complete closure of primary and secondary schools",NA
+"371","Connecticut",2020-03-19,"Social distancing","Small gathering cancellation","Closure of non-essential shops","Closure of large shopping malls"
+"372","Connecticut",2020-03-19,"Social distancing","Mass gathering cancellation","Closure of non-essential public places","Closure of palces of public amusement"
+"373","Connecticut",2020-03-19,"Social distancing","Mass gathering cancellation","Measures for elections","Elections postponed"
+"374","Connecticut",2020-03-19,"Social distancing","Small gathering cancellation","Closure of non-essential shops","Partial"
+"375","Connecticut",2020-03-23,"Social distancing","Small gathering cancellation","Non-critical court operations suspended",NA
+"376","Connecticut",2020-03-24,"Social distancing","Small gathering cancellation","Mandatory home office",NA
+"377","Connecticut",2020-03-26,"Social distancing","Mass gathering cancellation","Limit up to 50 persons",NA
+"378","Connecticut",2020-03-27,"Healthcare and public health capacity","Personal protective measures","Enhance hand hygiene","Allowing non-traditional manufacturers to make alcohol-based hand sanitizers"
+"379","Delaware",2020-03-13,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"380","Delaware",2020-03-13,"Resource allocation","Police and army interventions","To support the population","Humanitarian missions"
+"381","Delaware",2020-03-13,"Social distancing","Mass gathering cancellation","Limit up to 100 persons","partial: non-essential mass gatherings"
+"382","Delaware",2020-03-13,"Risk communication","Educate and actively communicate with the public","Promote social distancing measures","Promote the 2m distance"
+"383","Delaware",2020-03-13,"Risk communication","Educate and actively communicate with the public","Encourage stay at home","Special populations: elderly and with chronic health conditions"
+"384","Delaware",2020-03-13,"Healthcare and public health capacity","Increase healthcare workforce","Movement restriction of healthcare professionals","Travel ban for healthcare professionals"
+"385","Delaware",2020-03-13,"Social distancing","Measures for special populations","Measures to limit contact to long-term care facilities","Recommendation to reduce contact to long-term care facilities"
+"386","Delaware",2020-03-13,"Travel restriction","Individual movement restrictions","Non-essential travels abroad/out-of-state forbidden","Travelling ban for state employees"
+"387","Delaware",2020-03-16,"Social distancing","Mass gathering cancellation","Limit up to 50 persons",NA
+"388","Delaware",2020-03-16,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Partial"
+"389","Delaware",2020-03-16,"Social distancing","Mass gathering cancellation","Indoor activities","Bars, clubs, casinos"
+"390","Delaware",2020-03-16,"Social distancing","Mass gathering cancellation","Indoor activities","Hobby and leisure centres"
+"391","Delaware",2020-03-16,"Social distancing","Mass gathering cancellation","Cultural places and events","Theatres, concert events"
+"392","Delaware",2020-03-16,"Social distancing","Mass gathering cancellation","Indoor activities","Fitness centers and gyms"
+"393","Delaware",2020-03-17,"Social distancing","Closure of educational institutions","Complete closure of kindergartens",NA
+"394","Delaware",2020-03-17,"Social distancing","Closure of educational institutions","Complete closure of primary and secondary schools",NA
+"395","Delaware",2020-03-21,"Social distancing","Mass gathering cancellation","Closure of non-essential public places","Beaches"
+"396","Delaware",2020-03-24,"Social distancing","Mass gathering cancellation","Closure of non-essential working places",NA
+"397","Delaware",2020-03-24,"Social distancing","Mass gathering cancellation","Closure of non-essential public places",NA
+"398","Delaware",2020-03-24,"Social distancing","Small gathering cancellation","Closure of non-essential shops",NA
+"399","Delaware",2020-03-24,"Travel restriction","Individual movement restrictions","Movements for non-essential<U+00A0>activities forbidden",NA
+"400","Delaware",2020-03-24,"Resource allocation","Crisis management plans","State aid, taxation and social security","Measures to protect renters and house owners"
+"401","Delaware",2020-03-30,"Case identification, contact tracing and related measures","Quarantine","Incoming travelers","All"
+"402","Delaware",2020-03-30,"Social distancing","Mass gathering cancellation","Measures for elections","Elections postponed"
+"403","Florida",2020-03-01,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"404","Florida",2020-03-01,"Case identification, contact tracing and related measures","Quarantine","Suspected cases",NA
+"405","Florida",2020-03-09,"Resource allocation","Police and army interventions","To collect data and samples for tests","Testing"
+"406","Florida",2020-03-09,"Resource allocation","Crisis management plans","Repurpose government plans","Emergency funds"
+"407","Florida",2020-03-09,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Suspension of licensure laws for health care providers"
+"408","Florida",2020-03-11,"Social distancing","Measures for special populations","Measures to limit contact to long-term care facilities","Recommendation to reduce contact to long-term care facilities"
+"409","Florida",2020-03-12,"Social distancing","Special measures for certain establishments","Prisons and youth detention centers","Health screening protocols for all visitors of juvenile detention centers"
+"410","Florida",2020-03-14,"Social distancing","Measures for special populations","Measures to limit contact to long-term care facilities","Close long-term care facilities for visitors"
+"411","Florida",2020-03-15,"Social distancing","Special measures for certain establishments","Prisons and youth detention centers","Reduction of visits"
+"412","Florida",2020-03-16,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Extension of driving licence"
+"413","Florida",2020-03-17,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Partial"
+"414","Florida",2020-03-17,"Social distancing","Small gathering cancellation","Limit up to 10 persons",NA
+"415","Florida",2020-03-20,"Social distancing","Mass gathering cancellation","Indoor activities",NA
+"416","Florida",2020-03-20,"Social distancing","Mass gathering cancellation","Cultural places and events",NA
+"417","Florida",2020-03-20,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Partial"
+"418","Florida",2020-03-20,"Healthcare and public health capacity","Increase patient capacity","Postponement of non-essential care and non-urgent operations in hospitals",NA
+"419","Florida",2020-03-23,"Social distancing","Closure of educational institutions","Partial closure of kindergartens",NA
+"420","Florida",2020-03-23,"Social distancing","Closure of educational institutions","Partial closure of primary and secondary schools",NA
+"421","Florida",2020-03-23,"Social distancing","Closure of educational institutions","Partial closure of universities",NA
+"422","Florida",2020-03-24,"Case identification, contact tracing and related measures","Quarantine","Incoming travelers","All"
+"423","Florida",2020-03-24,"Risk communication","Educate and actively communicate with the public","Encourage stay at home","Recommend the elderly to stay at home"
+"424","Florida",2020-03-24,"Social distancing","Small gathering cancellation","Limit up to 10 persons",NA
+"425","Florida",2020-03-24,"Risk communication","Educate and actively communicate with the public","Promote workplace safety measures","Recommendation for home office"
+"426","Florida",2020-03-26,"Risk communication","Educate and actively communicate with the public","Encourage vaccination against respiratory diseases other than covid19","Encourage vaccination against respiratory diseases other than covid19"
+"427","Florida",2020-03-27,"Travel restriction","Border restriction","Land border controls",NA
+"428","Florida",2020-03-27,"Social distancing","Small gathering cancellation","Closure of short-term accommodation","Vacation rental suspended"
+"429","Florida",2020-03-30,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Recruitment of healthcare workers on the frontline"
+"430","Georgia",2020-03-14,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"431","Georgia",2020-03-14,"Resource allocation","Police and army interventions","To collect data and samples for tests","Testing"
+"432","Georgia",2020-03-14,"Resource allocation","Crisis management plans","Repurpose government plans","Emergency funds"
+"433","Georgia",2020-03-18,"Social distancing","Closure of educational institutions","Complete closure of kindergartens",NA
+"434","Georgia",2020-03-18,"Social distancing","Closure of educational institutions","Complete closure of primary and secondary schools",NA
+"435","Georgia",2020-03-18,"Social distancing","Closure of educational institutions","Complete closure of universities",NA
+"436","Georgia",2020-03-20,"Healthcare and public health capacity","Adapt procedures for patient management","Ease prescription of regular medical products for patients","Computer-based processing of prescriptions"
+"437","Georgia",2020-03-20,"Healthcare and public health capacity","Adapt procedures for patient management","Ease prescription of regular medical products for patients","Ease prescription renewal"
+"438","Georgia",2020-03-20,"Resource allocation","Crisis management plans","Repurpose government plans","Emergency funds"
+"439","Georgia",2020-03-23,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Reactivate license/renew license of healthcare workers"
+"440","Georgia",2020-03-23,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Ease the recruitment of healthcare workers"
+"441","Georgia",2020-03-23,"Risk communication","Educate and actively communicate with the public","Encourage stay at home","Recommend vulnerable populations to stay at home: elderly and with chronic health conditions"
+"442","Georgia",2020-03-23,"Social distancing","Small gathering cancellation","Limit up to 10 persons","Business, establishment, non-profit corporation, or organization"
+"443","Georgia",2020-03-25,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Extension of driving licence"
+"444","Georgia",2020-03-26,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"445","Georgia",2020-03-30,"Resource allocation","Crisis management plans","Repurpose government plans","Emergency funds"
+"446","Georgia",2020-03-31,"Healthcare and public health capacity","Adapt procedures for patient management","Ease prescription of regular medical products for patients","Computer-based processing of prescriptions"
+"447","Hawaii",2020-03-04,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"448","Hawaii",2020-03-04,"Resource allocation","Crisis management plans","Repurpose government plans","Major Disaster Fund"
+"449","Hawaii",2020-03-04,"Resource allocation","Measures to ensure security of supply","Fixing price for necessity goods","food, medical supplies, personal hygene"
+"450","Hawaii",2020-03-04,"Resource allocation","Measures to ensure security of supply","Increase delivery capacity for medical supplies","food, medical supplies, personal hygene"
+"451","Hawaii",2020-03-16,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Administrative hearing may be conducted by telephone or video conference without the parties being physically present"
+"452","Hawaii",2020-03-16,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Suspension of licensure laws for health care providers"
+"453","Hawaii",2020-03-21,"Case identification, contact tracing and related measures","Quarantine","Incoming travelers","All"
+"454","Hawaii",2020-03-25,"Travel restriction","Individual movement restrictions","Movements for non-essential<U+00A0>activities forbidden","Allowed to work only when work cannot be performed via home office"
+"455","Hawaii",2020-03-25,"Social distancing","Mass gathering cancellation","Closure of non-essential working places","Allowed to work only when in essential business or operations"
+"456","Hawaii",2020-03-25,"Risk communication","Educate and actively communicate with the public","Promote social distancing measures","Promote the 2m distance"
+"457","Hawaii",2020-03-25,"Healthcare and public health capacity","Personal protective measures","Enhance hand hygiene","Essential businesses and operations shall make sanitizing products available for employees and customers"
+"458","Hawaii",2020-03-25,"Social distancing","Measures for special populations","Measures to limit contact to the elderly","Special hours for the elderly to cover their basic needs"
+"459","Hawaii",2020-03-25,"Social distancing","Measures for special populations","Measures to protect vulnerable populations","Essential businesses and operations shall implement separate operating hours for high risk customers"
+"460","Hawaii",2020-03-29,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"461","Hawaii",2020-03-29,"Healthcare and public health capacity","Adapt procedures for patient management","Simplification of the health journey","Authorize telemedicine"
+"462","Hawaii",2020-03-29,"Social distancing","Small gathering cancellation","Reduce close physical contact in workplaces","Reduce close physical contact in for notary functions"
+"463","Hawaii",2020-03-31,"Case identification, contact tracing and related measures","Quarantine","Incoming travelers","All"
+"464","Idaho",2020-03-13,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"465","Idaho",2020-03-23,"Healthcare and public health capacity","Adapt procedures for patient management","Simplification of the health journey","Authorize telemedicine"
+"466","Idaho",2020-03-23,"Healthcare and public health capacity","Adapt procedures for patient management","Ease prescription of regular medical products for patients","Ease prescription renewal"
+"467","Idaho",2020-03-23,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Recruitment of healthcare workers on the frontline"
+"468","Idaho",2020-03-23,"Resource allocation","Crisis management plans","State aid, taxation and social security","Tax relief measures"
+"469","Idaho",2020-03-23,"Risk communication","Educate and actively communicate with the public","Encourage stay at home","Ederly and health-compromised people"
+"470","Idaho",2020-03-23,"Risk communication","Educate and actively communicate with the public","Promote self-initiated isolation of people with mild respiratory symptoms",NA
+"471","Idaho",2020-03-23,"Case identification, contact tracing and related measures","Quarantine","Incoming travelers","All"
+"472","Idaho",2020-03-23,"Risk communication","Educate and actively communicate with the public","Respiratory etiquette","Advice campaign for sneezing/coughing in the elbow"
+"473","Idaho",2020-03-23,"Social distancing","Small gathering cancellation","Limit up to 10 persons",NA
+"474","Idaho",2020-03-25,"Resource allocation","Activate or establish emergency response","Declare state of emergency","Declare extreme emergency state"
+"475","Idaho",2020-03-27,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"476","Idaho",2020-03-27,"Resource allocation","Crisis management plans","Repurpose government plans","Emergency funds"
+"477","Idaho",2020-04-01,"Social distancing","Mass gathering cancellation","Measures for elections","Extended vote-by-mail procedures for elections"
+"478","Illinois",2020-03-09,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"479","Illinois",2020-03-13,"Social distancing","Mass gathering cancellation","Limit up to 1000 persons",NA
+"480","Illinois",2020-03-13,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Guaranty payment of sick leaves during the epidemic"
+"481","Illinois",2020-03-16,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Partial"
+"482","Illinois",2020-03-16,"Social distancing","Mass gathering cancellation","Indoor activities","Hobby and leisure centres"
+"483","Illinois",2020-03-17,"Social distancing","Closure of educational institutions","Complete closure of kindergartens",NA
+"484","Illinois",2020-03-17,"Social distancing","Closure of educational institutions","Complete closure of primary and secondary schools",NA
+"485","Illinois",2020-03-17,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Extension of driving licence"
+"486","Illinois",2020-03-17,"Resource allocation","Crisis management plans","State aid, taxation and social security","Tax relief measures"
+"487","Illinois",2020-03-18,"Social distancing","Mass gathering cancellation","Limit up to 50 persons",NA
+"488","Illinois",2020-03-19,"Healthcare and public health capacity","Adapt procedures for patient management","Simplification of the health journey","Authorize telemedicine for mental health"
+"489","Illinois",2020-03-21,"Travel restriction","National lockdown","Stay-at-home Order",NA
+"490","Illinois",2020-03-21,"Social distancing","Small gathering cancellation","Closure of non-essential shops","All"
+"491","Illinois",2020-03-21,"Social distancing","Mass gathering cancellation","Closure of non-essential working places","All"
+"492","Illinois",2020-03-21,"Social distancing","Small gathering cancellation","Mandatory home office",NA
+"493","Illinois",2020-03-21,"Social distancing","Small gathering cancellation","Complete prohibition of gathering",NA
+"494","Illinois",2020-03-21,"Social distancing","Mass gathering cancellation","Outdoor activities",NA
+"495","Illinois",2020-03-21,"Social distancing","Mass gathering cancellation","Indoor activities",NA
+"496","Illinois",2020-03-21,"Social distancing","Mass gathering cancellation","Outdoor activities","Leisure outdoor activities"
+"497","Illinois",2020-03-21,"Risk communication","Educate and actively communicate with the public","Encourage stay at home","Recommend vulnerable populations to stay at home: elderly and with chronic health conditions"
+"498","Illinois",2020-03-21,"Risk communication","Educate and actively communicate with the public","Encourage hand hygiene","Encourage to not shake hands"
+"499","Illinois",2020-03-21,"Risk communication","Actively communicate with healthcare professionals","Encourage hand hygiene","Washing hands with soap and water for at least twenty seconds as frequently as possible or using hand sanitizer"
+"500","Illinois",2020-03-21,"Risk communication","Educate and actively communicate with the public","Respiratory etiquette","Advice campaign for sneezing/coughing in the elbow"
+"501","Illinois",2020-03-21,"Social distancing","Small gathering cancellation","Limit up to 10 persons","Everywhere"
+"502","Illinois",2020-03-23,"Risk communication","Actively communicate with managers","Recommendations for schools","Recommendations for e-learning"
+"503","Illinois",2020-03-24,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Ease the recruitment of healthcare workers"
+"504","Illinois",2020-03-26,"Social distancing","Special measures for certain establishments","Prisons and youth detention centers","No more admissions"
+"505","Illinois",2020-03-26,"Social distancing","Small gathering cancellation","Reduce close physical contact in workplaces","Reduce close physical contact in for notary functions"
+"506","Illinois",2020-03-26,"Social distancing","Closure of educational institutions","Complete closure of all educational institutions","Kindergartens, primary and secondary schools, universities"
+"507","Illinois",2020-04-01,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"508","Illinois",2020-04-01,"Healthcare and public health capacity","Increase patient capacity","Postponement of non-essential care and non-urgent operations in hospitals",NA
+"509","Illinois",2020-04-01,"Healthcare and public health capacity","Increase availability of PPE","PPE for healthcare professionals",NA
+"510","Illinois",2020-04-01,"Healthcare and public health capacity","Increase patient capacity","Beds",NA
+"511","Indiana",2020-03-06,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"512","Indiana",2020-03-08,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"513","Indiana",2020-03-13,"Resource allocation","Measures to ensure security of supply","Increase delivery capacity for food products","Ease hour restrictions for motor carriers and drivers who deliver food"
+"514","Indiana",2020-03-16,"Healthcare and public health capacity","Increase patient capacity","Postponement of non-essential care and non-urgent operations in hospitals",NA
+"515","Indiana",2020-03-16,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Partial"
+"516","Indiana",2020-03-16,"Social distancing","Mass gathering cancellation","Limit up to 50 persons",NA
+"517","Indiana",2020-03-16,"Resource allocation","Police and army interventions","To collect data and samples for tests","Testing"
+"518","Indiana",2020-03-19,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Extension of driving licence"
+"519","Indiana",2020-03-19,"Social distancing","Closure of educational institutions","Complete closure of kindergartens",NA
+"520","Indiana",2020-03-19,"Social distancing","Closure of educational institutions","Complete closure of primary and secondary schools",NA
+"521","Indiana",2020-03-19,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Extension of health insurance"
+"522","Indiana",2020-03-19,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"523","Indiana",2020-03-19,"Resource allocation","Crisis management plans","State aid, taxation and social security","Measures to protect renters and house owners"
+"524","Indiana",2020-03-20,"Travel restriction","National lockdown","Stay-at-home Order",NA
+"525","Indiana",2020-03-20,"Social distancing","Mass gathering cancellation","Measures for elections","Elections postponed"
+"526","Indiana",2020-03-23,"Social distancing","Mass gathering cancellation","Closure of non-essential working places","Access to government buildings restricted to services essential to public health and safety"
+"527","Indiana",2020-03-23,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Extension of driving licence"
+"528","Indiana",2020-03-23,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Partial"
+"529","Indiana",2020-03-25,"Social distancing","Mass gathering cancellation","Outdoor activities",NA
+"530","Indiana",2020-03-25,"Risk communication","Educate and actively communicate with the public","Encourage stay at home","Recommend vulnerable populations to stay at home: elderly and with chronic health conditions"
+"531","Indiana",2020-03-25,"Social distancing","Mass gathering cancellation","Indoor activities",NA
+"532","Indiana",2020-03-25,"Social distancing","Mass gathering cancellation","Festivals, faith-based events",NA
+"533","Indiana",2020-03-25,"Social distancing","Mass gathering cancellation","Conferences, meetings, trade fairs, etc.",NA
+"534","Indiana",2020-03-25,"Social distancing","Small gathering cancellation","Limit up to 10 persons",NA
+"535","Indiana",2020-03-25,"Social distancing","Small gathering cancellation","Closure of non-essential shops",NA
+"536","Indiana",2020-03-25,"Social distancing","Small gathering cancellation","Mandatory home office",NA
+"537","Indiana",2020-03-25,"Social distancing","Mass gathering cancellation","Closure of non-essential working places",NA
+"538","Indiana",2020-03-25,"Social distancing","Small gathering cancellation","Limit up to 10 persons","In essential businesses"
+"539","Indiana",2020-03-25,"Risk communication","Actively communicate with healthcare professionals","Encourage hand hygiene","Washing hands with soap and water for at least twenty seconds as frequently as possible or using hand sanitizer"
+"540","Indiana",2020-03-25,"Risk communication","Educate and actively communicate with the public","Respiratory etiquette","Advice campaign for sneezing/coughing in the elbow"
+"541","Indiana",2020-03-25,"Risk communication","Educate and actively communicate with the public","Encourage hand hygiene","Encourage to not shake hands"
+"542","Indiana",2020-03-26,"Resource allocation","Crisis management plans","State aid, taxation and social security","Tax relief measures"
+"543","Indiana",2020-03-26,"Healthcare and public health capacity","Adapt procedures for patient management","Ease prescription of regular medical products for patients","Ease prescription renewal"
+"544","Indiana",2020-03-26,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Staffing requirements for pharmacies suspended"
+"545","Indiana",2020-03-30,"Healthcare and public health capacity","Adapt procedures for patient management","Simplification of the health journey","Authorize audio-only call for health care services"
+"546","Indiana",2020-03-30,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Suspension of licensure laws for health care providers"
+"547","Indiana",2020-03-30,"Healthcare and public health capacity","Increase patient capacity","Increase number of medical institutions",NA
+"548","Indiana",2020-04-01,"Healthcare and public health capacity","Increase patient capacity","Postponement of non-essential care and non-urgent operations in hospitals",NA
+"549","Indiana",2020-04-02,"Risk communication","Actively communicate with managers","Recommendations for schools","Recommendations for e-learning"
+"550","Indiana",2020-04-07,"Social distancing","Measures for special populations","Measures to protect vulnerable populations","Essential businesses and operations shall implement separate operating hours for high risk customers"
+"551","Indiana",2020-04-07,"Social distancing","Measures for special populations","Measures to limit contact to the elderly","Special hours for the elderly to cover their basic needs"
+"552","Indiana",2020-04-07,"Social distancing","Special measures for certain establishments","Grocery stores","Limitation on the number of customers to respect social distancing"
+"553","Indiana",2020-04-07,"Social distancing","Small gathering cancellation","Closure of non-essential shops","Barber shops, tattoo parlors"
+"554","Indiana",2020-04-07,"Social distancing","Mass gathering cancellation","Indoor activities","Fitness centers and gyms"
+"555","Indiana",2020-04-07,"Social distancing","Mass gathering cancellation","Outdoor activities","closure of playgrounds"
+"556","Indiana",2020-04-07,"Travel restriction","Individual movement restrictions","Movements for non-essential<U+00A0>activities forbidden",NA
+"557","Indiana",2020-04-08,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Partial"
+"558","Iowa",2020-03-09,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"559","Iowa",2020-03-09,"Healthcare and public health capacity","Increase in medical supplies and equipment","Increase delivery capacity for medical supplies","Ease hour restrictions for motor carriers and drivers who deliver medical supplies"
+"560","Iowa",2020-03-13,"Resource allocation","Measures to ensure security of supply","Increase delivery capacity for necessity goods","Ease hour restrictions for motor carriers and drivers who necessity goods"
+"561","Iowa",2020-03-17,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Partial"
+"562","Iowa",2020-03-17,"Social distancing","Mass gathering cancellation","Indoor activities","Bars, clubs, casinos"
+"563","Iowa",2020-03-17,"Social distancing","Small gathering cancellation","Limit up to 10 persons",NA
+"564","Iowa",2020-03-17,"Social distancing","Mass gathering cancellation","Closure of adult daycare facilities","Closure of senior citizen centers and adult daycare facilities"
+"565","Iowa",2020-03-17,"Healthcare and public health capacity","Adapt procedures for patient management","Simplification of the health journey","Authorize telemedicine"
+"566","Iowa",2020-03-17,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Reactivate license/renew license of healthcare workers"
+"567","Iowa",2020-03-17,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Extension of driving licence"
+"568","Iowa",2020-03-17,"Social distancing","Mass gathering cancellation","Indoor activities","Fitness centers and gyms"
+"569","Iowa",2020-03-19,"Resource allocation","Crisis management plans","State aid, taxation and social security","Measures to protect renters and house owners"
+"570","Iowa",2020-03-19,"Social distancing","Special measures for certain establishments","Alcohol sellers","Alcoholic beverages can be delivered"
+"571","Iowa",2020-03-22,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Suspension of licensure laws for pharmacists"
+"572","Iowa",2020-03-23,"Social distancing","Small gathering cancellation","Closure of non-essential shops","Closure of salons, medical spas, barbershops, tattoo extalishments, tanning facilities, massage therapy extablishments, and swimming pools"
+"573","Iowa",2020-03-26,"Social distancing","Mass gathering cancellation","Cultural places and events",NA
+"574","Iowa",2020-03-26,"Case identification, contact tracing and related measures","Enhance detection system","Targeted testing","Health checks for healthcare professionals"
+"575","Iowa",2020-03-27,"Social distancing","Small gathering cancellation","Closure of non-essential shops","Closure of florists, jewelry stores, book stores, clothing stores, luggage stores, cosmetic, beauty and perfume stores, and furniture stores"
+"576","Iowa",2020-03-28,"Healthcare and public health capacity","Increase patient capacity","Postponement of non-essential care and non-urgent operations in hospitals","All non-essential surgeries that utilize PPE"
+"577","Iowa",2020-03-31,"Social distancing","Special measures for certain establishments","Alcohol sellers","Alcoholic beverages can be delivered"
+"578","Iowa",2020-04-02,"Social distancing","Closure of educational institutions","Complete closure of kindergartens",NA
+"579","Iowa",2020-04-02,"Social distancing","Closure of educational institutions","Complete closure of primary and secondary schools",NA
+"580","Iowa",2020-04-07,"Social distancing","Small gathering cancellation","Closure of non-essential shops","Closure of malls, cigarette, tobacco and vaping stores, toy, gaming, music, movie stores"
+"581","Kansas",2020-03-12,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"582","Kansas",2020-03-17,"Social distancing","Mass gathering cancellation","Limit up to 50 persons",NA
+"583","Kansas",2020-03-17,"Social distancing","Mass gathering cancellation","Cultural places and events",NA
+"584","Kansas",2020-03-17,"Social distancing","Mass gathering cancellation","Outdoor activities","closure of pools"
+"585","Kansas",2020-03-17,"Social distancing","Mass gathering cancellation","Indoor activities",NA
+"586","Kansas",2020-03-17,"Risk communication","Educate and actively communicate with the public","Promote social distancing measures","Promote the 2m distance"
+"587","Kansas",2020-03-17,"Resource allocation","Measures to ensure security of supply","Insure access to gas/electricity/water/telecommunications","Flexibility in bill payment for vulnerable customers"
+"588","Kansas",2020-03-17,"Social distancing","Closure of educational institutions","Complete closure of kindergartens",NA
+"589","Kansas",2020-03-17,"Social distancing","Closure of educational institutions","Complete closure of primary and secondary schools",NA
+"590","Kansas",2020-03-17,"Resource allocation","Crisis management plans","State aid, taxation and social security","Suspend evictions and foreclosures"
+"591","Kansas",2020-03-20,"Risk communication","Actively communicate with healthcare professionals","Recommendations to physicians","Encourage telemedicine"
+"592","Kansas",2020-03-20,"Resource allocation","Measures to ensure security of supply","Increase delivery capacity for medical supplies","Ease restrictions for transporters"
+"593","Kansas",2020-03-23,"Resource allocation","Crisis management plans","State aid, taxation and social security","Suspend evictions and foreclosures"
+"594","Kansas",2020-03-23,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Extension of driving licence"
+"595","Kansas",2020-03-23,"Resource allocation","Crisis management plans","State aid, taxation and social security","Tax relief measures"
+"596","Kansas",2020-03-25,"Social distancing","Small gathering cancellation","Limit up to 10 persons",NA
+"597","Kansas",2020-03-30,"Travel restriction","National lockdown","Stay-at-home Order",NA
+"598","Kansas",2020-03-31,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"599","Kansas",2020-04-08,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Partial"
+"600","Kansas",2020-04-08,"Social distancing","Small gathering cancellation","Closure of non-essential shops","Partial"
+"601","Kansas",2020-04-08,"Social distancing","Mass gathering cancellation","Places of worship","Partial"
+"602","Kansas",2020-04-08,"Social distancing","Mass gathering cancellation","Cultural places and events","Partial"
+"603","Kentucky",2020-03-06,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"604","Kentucky",2020-03-06,"Resource allocation","Activate or establish emergency response","Risk management plan","Set up crisis unit (national)"
+"605","Kentucky",2020-03-06,"Risk communication","Educate and actively communicate with the public","Encourage vaccination against respiratory diseases other than covid19",NA
+"606","Kentucky",2020-03-06,"Risk communication","Actively communicate with healthcare professionals","Encourage hand hygiene","Washing hands with soap and water for at least twenty seconds as frequently as possible or using hand sanitizer"
+"607","Kentucky",2020-03-06,"Risk communication","Educate and actively communicate with the public","Respiratory etiquette","Advice campaign for not touching eyes/nose/mouth"
+"608","Kentucky",2020-03-06,"Risk communication","Educate and actively communicate with the public","Promote self-initiated isolation of people with mild respiratory symptoms",NA
+"609","Kentucky",2020-03-06,"Risk communication","Educate and actively communicate with the public","Respiratory etiquette","Advice campaign for sneezing/coughing in the elbow"
+"610","Kentucky",2020-03-07,"Risk communication","Educate and actively communicate with the public","Encourage stay at home","Recommend the elderly to stay at home"
+"611","Kentucky",2020-03-07,"Risk communication","Actively communicate with managers","Recommendations for work safety protocols","Encourage businesses to implement sick leave policies"
+"612","Kentucky",2020-03-07,"Risk communication","Educate and actively communicate with the public","Answer to questions","Telephone hotline covid-19"
+"613","Kentucky",2020-03-09,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Extension of health insurance"
+"614","Kentucky",2020-03-10,"Social distancing","Special measures for certain establishments","Prisons and youth detention centers","Visit restriction in prisons and youth detention centers"
+"615","Kentucky",2020-03-10,"Healthcare and public health capacity","Adapt procedures for patient management","Ease prescription of regular medical products for patients","Ease prescription renewal"
+"616","Kentucky",2020-03-10,"Social distancing","Measures for special populations","Measures to limit contact to long-term care facilities","Limited visits to long-term care facilities and nursing homes, except in an end-of-life situation."
+"617","Kentucky",2020-03-11,"Risk communication","Educate and actively communicate with the public","Promote workplace safety measures","Recommendation for home office"
+"618","Kentucky",2020-03-11,"Healthcare and public health capacity","Increase healthcare workforce","Movement restriction of healthcare professionals","Travel ban for healthcare professionals"
+"619","Kentucky",2020-03-11,"Risk communication","Educate and actively communicate with the public","Promote social distancing measures","Discourage gathering"
+"620","Kentucky",2020-03-11,"Risk communication","Educate and actively communicate with the public","Promote social distancing measures","Promote the 2m distance"
+"621","Kentucky",2020-03-13,"Social distancing","Measures for special populations","Measures to limit contact to long-term care facilities","Recommendation to reduce contact to long-term care facilities"
+"622","Kentucky",2020-03-13,"Social distancing","Measures for special populations","Measures to limit contact to the elderly","Provide assistance to the elderly who stay at home"
+"623","Kentucky",2020-03-14,"Case identification, contact tracing and related measures","Enhance detection system","Extend test criteria","Provide free testing"
+"624","Kentucky",2020-03-14,"Resource allocation","Measures to ensure security of supply","Increase delivery capacity for medical supplies","Ease restrictions for transporters"
+"625","Kentucky",2020-03-15,"Social distancing","Return operation of nationals","Return operation of nationals on the Grand Princess cruise ship","Special measure: Quarantine"
+"626","Kentucky",2020-03-16,"Social distancing","Mass gathering cancellation","Measures for elections","Elections postponed"
+"627","Kentucky",2020-03-16,"Social distancing","Closure of educational institutions","Complete closure of kindergartens",NA
+"628","Kentucky",2020-03-16,"Social distancing","Closure of educational institutions","Complete closure of primary and secondary schools",NA
+"629","Kentucky",2020-03-16,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Extension of driving licence"
+"630","Kentucky",2020-03-16,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"631","Kentucky",2020-03-16,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Partial"
+"632","Kentucky",2020-03-17,"Social distancing","Measures for special populations","Measures to limit contact to long-term care facilities","Recommendation to reduce contact to long-term care facilities"
+"633","Kentucky",2020-03-17,"Social distancing","Measures for special populations","Measures to limit contact to hospital patients","Restrict visits in psychiatric facilities"
+"634","Kentucky",2020-03-18,"Healthcare and public health capacity","Increase patient capacity","Postponement of non-essential care and non-urgent operations in hospitals",NA
+"635","Kentucky",2020-03-18,"Social distancing","Mass gathering cancellation","Cultural places and events","Public-facing business that cannot respect rules of social distancing"
+"636","Kentucky",2020-03-18,"Social distancing","Mass gathering cancellation","Closure of non-essential working places","Public-facing business that cannot respect rules of social distancing"
+"637","Kentucky",2020-03-18,"Social distancing","Mass gathering cancellation","Closure of non-essential working places","All state government buildings closed to the public"
+"638","Kentucky",2020-03-18,"Social distancing","Mass gathering cancellation","Cultural places and events","Charitable gaming licenses"
+"639","Kentucky",2020-03-18,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"640","Kentucky",2020-03-19,"Social distancing","Mass gathering cancellation","Sport events",NA
+"641","Kentucky",2020-03-19,"Social distancing","Mass gathering cancellation","Festivals, faith-based events",NA
+"642","Kentucky",2020-03-19,"Social distancing","Mass gathering cancellation","Cultural places and events","Concerts"
+"643","Kentucky",2020-03-19,"Social distancing","Mass gathering cancellation","Outdoor activities",NA
+"644","Kentucky",2020-03-19,"Social distancing","Special measures for certain establishments","Alcohol sellers","Alcoholic beverages can be delivered"
+"645","Kentucky",2020-03-19,"Healthcare and public health capacity","Increase patient capacity","Postponement of non-essential care and non-urgent operations in hospitals",NA
+"646","Kentucky",2020-03-20,"Social distancing","Mass gathering cancellation","Closure of adult daycare facilities",NA
+"647","Kentucky",2020-03-23,"Social distancing","Closure of educational institutions","Complete closure of kindergartens",NA
+"648","Kentucky",2020-03-23,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"649","Kentucky",2020-03-24,"Social distancing","Small gathering cancellation","Closure of non-essential shops","All in-person retail businesses that are not life-sustaining"
+"650","Kentucky",2020-03-24,"Resource allocation","The government provide assistance to vulnerable populations","The government provides food assistance","State workers helping at food banks"
+"651","Kentucky",2020-03-24,"Social distancing","Closure of educational institutions","Restrictions on exams","Exams postponed"
+"652","Kentucky",2020-03-25,"Social distancing","Small gathering cancellation","Mandatory home office","Applies only to non-essential businesses"
+"653","Kentucky",2020-03-25,"Resource allocation","Crisis management plans","State aid, taxation and social security","Suspend evictions and foreclosures"
+"654","Kentucky",2020-03-25,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"655","Kentucky",2020-03-26,"Resource allocation","Police and army interventions","To support law enforcement/sanction in case of no compliance","To enforce social distancing"
+"656","Kentucky",2020-03-26,"Risk communication","Educate and actively communicate with the public","Foster community assistance","Encourage donation for covid19 crisis"
+"657","Kentucky",2020-03-27,"Social distancing","Mass gathering cancellation","Closure of non-essential working places",NA
+"658","Kentucky",2020-03-27,"Social distancing","Small gathering cancellation","Mandatory home office",NA
+"659","Kentucky",2020-03-27,"Resource allocation","Police and army interventions","To collect data and samples for tests","Data collection and management"
+"660","Kentucky",2020-03-28,"Travel restriction","Individual movement restrictions","Non-essential travels abroad/out-of-state forbidden","Travel to Tennessee forbidden"
+"661","Kentucky",2020-03-30,"Travel restriction","Individual movement restrictions","Non-essential travels abroad/out-of-state forbidden","Out-of-state travel forbidden"
+"662","Kentucky",2020-03-31,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Suspension of licensure laws for health care providers"
+"663","Kentucky",2020-03-31,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Recruitment of healthcare workers on the frontline"
+"664","Kentucky",2020-04-02,"Travel restriction","Individual movement restrictions","Non-essential travels abroad/out-of-state forbidden","Out-of-state travel forbidden"
+"665","Kentucky",2020-04-02,"Case identification, contact tracing and related measures","Quarantine","Incoming travelers","All"
+"666","Kentucky",2020-04-02,"Risk communication","Educate and actively communicate with the public","Foster community assistance","Encourage donation for covid19 crisis"
+"667","Kentucky",2020-04-02,"Healthcare and public health capacity","Increase patient capacity","Emergency hospitals","Convert state fairgrounds into a 2,000-bed makeshift hospital"
+"668","Kentucky",2020-04-03,"Social distancing","Small gathering cancellation","Closure of short-term accommodation","Partial: Remain open at day"
+"669","Kentucky",2020-04-05,"Healthcare and public health capacity","Enhance laboratory testing capacity","Increase testing capacity (number tests)","Increase test availability"
+"670","Louisiana",2020-03-09,"Risk communication","Educate and actively communicate with the public","Respiratory etiquette","Advice campaign for sneezing/coughing in the elbow"
+"671","Louisiana",2020-03-09,"Risk communication","Actively communicate with healthcare professionals","Encourage hand hygiene","Washing hands with soap and water for at least twenty seconds as frequently as possible or using hand sanitizer"
+"672","Louisiana",2020-03-09,"Risk communication","Educate and actively communicate with the public","Promote self-initiated isolation of people with mild respiratory symptoms",NA
+"673","Louisiana",2020-03-09,"Risk communication","Educate and actively communicate with the public","Encourage environmental disinfection","Disinfection of frequently touched surfaces"
+"674","Louisiana",2020-03-09,"Risk communication","Educate and actively communicate with the public","Promote social distancing measures","Promote the 2m distance"
+"675","Louisiana",2020-03-11,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"676","Louisiana",2020-03-11,"Travel restriction","Border restriction","Travel ban to high-risk areas","For state employees"
+"677","Louisiana",2020-03-11,"Travel restriction","Individual movement restrictions","Partial restriction on movements","Visits to quarantined household forbidden"
+"678","Louisiana",2020-03-11,"Resource allocation","Measures to ensure security of supply","Increase delivery capacity for food products","Ease hour restrictions for motor carriers and drivers who deliver food"
+"679","Louisiana",2020-03-11,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Suspension of licensure laws for health care providers"
+"680","Louisiana",2020-03-13,"Social distancing","Mass gathering cancellation","Limit up to 250 persons",NA
+"681","Louisiana",2020-03-13,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Deadline for expiration of documents extended"
+"682","Louisiana",2020-03-13,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"683","Louisiana",2020-03-13,"Social distancing","Mass gathering cancellation","Indoor activities","Charitable Raffle and Bingo closed"
+"684","Louisiana",2020-03-13,"Social distancing","Mass gathering cancellation","Measures for elections","Elections postponed"
+"685","Louisiana",2020-03-16,"Social distancing","Closure of educational institutions","Complete closure of primary and secondary schools",NA
+"686","Louisiana",2020-03-16,"Social distancing","Closure of educational institutions","Complete closure of kindergartens",NA
+"687","Louisiana",2020-03-16,"Social distancing","Mass gathering cancellation","Limit up to 50 persons",NA
+"688","Louisiana",2020-03-17,"Social distancing","Mass gathering cancellation","Cultural places and events","Movie theatres"
+"689","Louisiana",2020-03-17,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Bars"
+"690","Louisiana",2020-03-17,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Partial"
+"691","Louisiana",2020-03-17,"Social distancing","Mass gathering cancellation","Indoor activities","Fitness centers and gyms"
+"692","Louisiana",2020-03-18,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Digital driver's licence"
+"693","Louisiana",2020-03-19,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Global economic support to workers, employers and businesses"
+"694","Louisiana",2020-03-19,"Healthcare and public health capacity","Enhance laboratory testing capacity","Increase laboratory facilities","More laboratory dedicated"
+"695","Louisiana",2020-03-23,"Social distancing","Mass gathering cancellation","Closure of non-essential working places","All state government buildings closed to the public"
+"696","Louisiana",2020-03-23,"Social distancing","Small gathering cancellation","Limit up to 10 persons",NA
+"697","Louisiana",2020-03-23,"Travel restriction","National lockdown","Stay-at-home Order",NA
+"698","Louisiana",2020-03-23,"Social distancing","Mass gathering cancellation","Sport events",NA
+"699","Louisiana",2020-03-23,"Social distancing","Mass gathering cancellation","Outdoor activities",NA
+"700","Louisiana",2020-03-23,"Social distancing","Small gathering cancellation","Closure of non-essential shops",NA
+"701","Louisiana",2020-03-23,"Social distancing","Mass gathering cancellation","Closure of non-essential public places",NA
+"702","Louisiana",2020-03-23,"Social distancing","Mass gathering cancellation","Closure of non-essential working places",NA
+"703","Louisiana",2020-03-25,"Resource allocation","Activate or establish emergency response","Risk management plan","Emergency plan"
+"704","Louisiana",2020-03-27,"Risk communication","Actively communicate with managers","Answer to questions","Help desk for businesses"
+"705","Louisiana",2020-03-27,"Healthcare and public health capacity","Increase in medical supplies and equipment","Ventilators",NA
+"706","Louisiana",2020-03-31,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Suspension of licensure laws for health care providers"
+"707","Louisiana",2020-03-31,"Social distancing","Small gathering cancellation","Restriction on private and familial events","Funerals: Limit up to 10 persons"
+"708","Louisiana",2020-04-01,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Facilitate loans for entrepreneurs and businesses"
+"709","Louisiana",2020-04-02,"Risk communication","Educate and actively communicate with the public","Implement communication tool","Text alert system"
+"710","Louisiana",2020-04-07,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"711","Louisiana",2020-04-07,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Healthcare providers excluded from paid and unpaid leave"
+"712","Louisiana",2020-04-09,"Resource allocation","The government provide assistance to vulnerable populations","The government provides food assistance","For children"
+"713","Louisiana",2020-04-10,"Resource allocation","Activate or establish emergency response","Risk management plan","Set up crisis unit (national)"
+"714","Louisiana",2020-04-10,"Risk communication","Educate and actively communicate with the public","Direct government communication","Campaign to support the restaurant industry"
+"715","Louisiana",2020-04-14,"Social distancing","Mass gathering cancellation","Measures for elections","Elections postponed"
+"716","Maine",2020-03-02,"Resource allocation","Activate or establish emergency response","Risk management plan","Set up crisis unit (national)"
+"717","Maine",2020-03-09,"Social distancing","Measures for special populations","Measures to limit contact to long-term care facilities","Recommendation to reduce contact to long-term care facilities"
+"718","Maine",2020-03-11,"Resource allocation","Crisis management plans","Financial aid for health system","From CDC"
+"719","Maine",2020-03-12,"Social distancing","Mass gathering cancellation","Limit up to 250 persons",NA
+"720","Maine",2020-03-12,"Travel restriction","Individual movement restrictions","Non-essential travels abroad/out-of-state forbidden","Out-of-state travel forbidden"
+"721","Maine",2020-03-15,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"722","Maine",2020-03-15,"Social distancing","Closure of educational institutions","Complete closure of kindergartens",NA
+"723","Maine",2020-03-15,"Social distancing","Closure of educational institutions","Complete closure of primary and secondary schools",NA
+"724","Maine",2020-03-15,"Social distancing","Mass gathering cancellation","Limit up to 50 persons",NA
+"725","Maine",2020-03-15,"Social distancing","Small gathering cancellation","Limit up to 10 persons","When at-risk people involved"
+"726","Maine",2020-03-15,"Healthcare and public health capacity","Increase patient capacity","Postponement of non-essential care and non-urgent operations in hospitals",NA
+"727","Maine",2020-03-16,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Facilitate loans for entrepreneurs and businesses"
+"728","Maine",2020-03-16,"Resource allocation","Crisis management plans","Financial aid for health system","Supplemental budget for health care"
+"729","Maine",2020-03-16,"Social distancing","Mass gathering cancellation","Festivals, faith-based events","Cancellation of Saint Patrick celebrations"
+"730","Maine",2020-03-17,"Resource allocation","Measures to ensure security of supply","Fixing price for necessity goods","Paper products, cleaning supplies, food"
+"731","Maine",2020-03-17,"Resource allocation","Measures to ensure security of supply","Fixing price for necessity goods","Water"
+"732","Maine",2020-03-17,"Resource allocation","Measures to ensure security of supply","Fixing price for specific protective products","Hand sanitizer and personal hygiene products"
+"733","Maine",2020-03-17,"Resource allocation","Measures to ensure security of supply","Fixing price for medical supplies","Medicine and medical supplies"
+"734","Maine",2020-03-17,"Resource allocation","Crisis management plans","State aid, taxation and social security","Guarantee loans for individuals"
+"735","Maine",2020-03-17,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"736","Maine",2020-03-18,"Social distancing","Small gathering cancellation","Limit up to 10 persons",NA
+"737","Maine",2020-03-18,"Social distancing","Mass gathering cancellation","Festivals, faith-based events",NA
+"738","Maine",2020-03-18,"Social distancing","Mass gathering cancellation","Sport events",NA
+"739","Maine",2020-03-18,"Social distancing","Mass gathering cancellation","Cultural places and events",NA
+"740","Maine",2020-03-18,"Social distancing","Mass gathering cancellation","Indoor activities",NA
+"741","Maine",2020-03-18,"Social distancing","Mass gathering cancellation","Conferences, meetings, trade fairs, etc.",NA
+"742","Maine",2020-03-18,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Partial"
+"743","Maine",2020-03-20,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Reactivate license/renew license of healthcare workers"
+"744","Maine",2020-03-20,"Resource allocation","Activate or establish emergency response","Relaxation of data protection law","Enable access to confidential patient information"
+"745","Maine",2020-03-20,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Expanded scope of practice of nurses/ physician assistant/anaesthesists/midwifes"
+"746","Maine",2020-03-20,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Suspension of licensure laws for health care providers"
+"747","Maine",2020-03-20,"Healthcare and public health capacity","Adapt procedures for patient management","Simplification of the health journey","Authorize telemedicine"
+"748","Maine",2020-03-23,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Extension of driving licence"
+"749","Maine",2020-03-24,"Resource allocation","Crisis management plans","State aid, taxation and social security","State supports childcare if parents are doing essential work"
+"750","Maine",2020-03-25,"Social distancing","Mass gathering cancellation","Closure of non-essential working places","Partial: all public-facing activities"
+"751","Maine",2020-03-26,"Resource allocation","Crisis management plans","Financial aid for health system","Nursing facilities: infection control and visitor screening"
+"752","Maine",2020-03-26,"Resource allocation","Crisis management plans","State aid, taxation and social security","Partial or total deferral of tax payments"
+"753","Maine",2020-03-26,"Healthcare and public health capacity","Increase in medical supplies and equipment","Ease access to drugs","Drugs to conduct medical trials can be mailed"
+"754","Maine",2020-03-27,"Risk communication","Educate and actively communicate with the public","Foster community assistance","Online resource"
+"755","Maine",2020-03-27,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Extension of boating registration renewal deadlines"
+"756","Maine",2020-03-27,"Resource allocation","Measures to ensure continuity of services","Increase workforce for critical jobs",NA
+"757","Maine",2020-03-30,"Resource allocation","The government provide assistance to vulnerable populations","The government provides food assistance","Provide meals for older who are home-bound"
+"758","Maine",2020-03-31,"Resource allocation","Crisis management plans","State aid, taxation and social security","Tax relief measures"
+"759","Maine",2020-04-01,"Healthcare and public health capacity","Increase healthcare workforce","Incentives for healthcare workers","Monetary bonuses for healthcare professionals"
+"760","Maine",2020-04-02,"Travel restriction","National lockdown","Stay-at-home Order",NA
+"761","Maine",2020-04-02,"Travel restriction","Public transport restriction","Public transport ban","Non-essential use of public transport forbidden"
+"762","Maine",2020-04-02,"Social distancing","Closure of educational institutions","Complete closure of kindergartens",NA
+"763","Maine",2020-04-02,"Social distancing","Closure of educational institutions","Complete closure of primary and secondary schools",NA
+"764","Maine",2020-04-02,"Social distancing","Special measures for certain establishments","Essential businesses and operations","Limiting number of customers"
+"765","Maine",2020-04-02,"Social distancing","Special measures for certain establishments","Essential businesses and operations","Favoring delivery options"
+"766","Maine",2020-04-02,"Social distancing","Special measures for certain establishments","Essential businesses and operations","Enforcing social distancing rules"
+"767","Maine",2020-04-02,"Risk communication","Educate and actively communicate with the public","Promote social distancing measures",NA
+"768","Maine",2020-04-03,"Case identification, contact tracing and related measures","Quarantine","Incoming travelers","All"
+"769","Maine",2020-04-03,"Risk communication","Educate and actively communicate with the public","Encourage visitors to not enter the state if sick",NA
+"770","Maine",2020-04-03,"Risk communication","Travel alert and warning","Warning against travel to and return from high risk areas","Detroit, Chicago and New York City"
+"771","Maine",2020-04-03,"Risk communication","Educate and actively communicate with the public","Information about travels","Discourage entry of visitors from high-risk areas"
+"772","Maine",2020-04-03,"Social distancing","Small gathering cancellation","Closure of short-term accommodation","All lodging operations and accommodations"
+"773","Maine",2020-04-04,"Resource allocation","Activate or establish emergency response","Risk management plan","Emergency plan"
+"774","Maine",2020-04-06,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Suspension of licensure laws for health care providers"
+"775","Maine",2020-04-06,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Extension of health insurance"
+"776","Maine",2020-04-08,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Allow remote notarization"
+"777","Maine",2020-04-10,"Healthcare and public health capacity","Adapt procedures for patient management","Ease prescription of regular medical products for patients","Ease prescription renewal"
+"778","Maryland",2020-03-05,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"779","Maryland",2020-03-12,"Social distancing","Mass gathering cancellation","Limit up to 250 persons",NA
+"780","Maryland",2020-03-12,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Extension of driving licence"
+"781","Maryland",2020-03-12,"Resource allocation","Police and army interventions","To collect data and samples for tests","Testing"
+"782","Maryland",2020-03-12,"Travel restriction","Port and ship restriction","Deny entry to passengers from any port outside the country","Passengers from any port outside the USA shall not disembark"
+"783","Maryland",2020-03-13,"Social distancing","Mass gathering cancellation","Closure of adult daycare facilities","Closure of senior citizen centers and adult daycare facilities"
+"784","Maryland",2020-03-13,"Resource allocation","Crisis management plans","State aid, taxation and social security","Expand child care access"
+"785","Maryland",2020-03-16,"Social distancing","Mass gathering cancellation","Indoor activities","Bars, clubs, casinos"
+"786","Maryland",2020-03-16,"Social distancing","Mass gathering cancellation","Limit up to 50 persons",NA
+"787","Maryland",2020-03-16,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Partial: only carry-on or drive-trhough and delivery"
+"788","Maryland",2020-03-16,"Social distancing","Mass gathering cancellation","Indoor activities","Fitness centers and gyms"
+"789","Maryland",2020-03-16,"Social distancing","Mass gathering cancellation","Cultural places and events","Closure of theatres and cinemas"
+"790","Maryland",2020-03-16,"Social distancing","Mass gathering cancellation","Indoor activities","Hobby and leisure centres"
+"791","Maryland",2020-03-16,"Healthcare and public health capacity","Increase isolation and quarantine facilities","Quarantine centers","Government properties repurposed as quarantine facilities"
+"792","Maryland",2020-03-16,"Healthcare and public health capacity","Increase patient capacity","Increase number of medical institutions","State of Maryland property can be made available as a place of treatment"
+"793","Maryland",2020-03-16,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Suspension of licensure laws for health care providers"
+"794","Maryland",2020-03-16,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Recruitment of the military reserve force"
+"795","Maryland",2020-03-16,"Resource allocation","Crisis management plans","State aid, taxation and social security","Suspend evictions and foreclosures"
+"796","Maryland",2020-03-16,"Resource allocation","Measures to ensure security of supply","Insure access to gas/electricity/water/telecommunications","Flexibility in bill payment for vulnerable customers"
+"797","Maryland",2020-03-17,"Social distancing","Mass gathering cancellation","Closure of adult daycare facilities",NA
+"798","Maryland",2020-03-17,"Social distancing","Mass gathering cancellation","Measures for elections","Elections postponed"
+"799","Maryland",2020-03-18,"Resource allocation","Measures to ensure security of supply","Increase delivery capacity for necessity goods","Waiving regulations regarding vehicle transportation"
+"800","Maryland",2020-03-19,"Social distancing","Small gathering cancellation","Limit up to 10 persons",NA
+"801","Maryland",2020-03-19,"Social distancing","Small gathering cancellation","Closure of non-essential shops","Enclosed malls"
+"802","Maryland",2020-03-19,"Social distancing","Mass gathering cancellation","Indoor activities","Hobby and leisure centres"
+"803","Maryland",2020-03-19,"Social distancing","Special measures for certain establishments","Alcohol sellers","Alcoholic beverages can be delivered"
+"804","Maryland",2020-03-19,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Suspension of licensure laws for health care providers"
+"805","Maryland",2020-03-20,"Healthcare and public health capacity","Adapt procedures for patient management","Simplification of the health journey","Authorize audio-only call for health care services"
+"806","Maryland",2020-03-23,"Social distancing","Mass gathering cancellation","Closure of non-essential working places",NA
+"807","Maryland",2020-03-23,"Social distancing","Mass gathering cancellation","Closure of non-essential public places",NA
+"808","Maryland",2020-03-23,"Resource allocation","Measures to ensure security of supply","Fixing price for necessity goods","Paper products, cleaning supplies, food, water."
+"809","Maryland",2020-03-23,"Resource allocation","Measures to ensure security of supply","Fixing price for specific protective products","Hand sanitizer and personal hygiene products"
+"810","Maryland",2020-03-23,"Resource allocation","Measures to ensure security of supply","Fixing price for medical supplies","Medicine and medical supplies"
+"811","Maryland",2020-03-23,"Healthcare and public health capacity","Enhance laboratory testing capacity","Increase laboratory facilities","More laboratory dedicated"
+"812","Maryland",2020-03-25,"Resource allocation","Crisis management plans","State aid, taxation and social security","Expand child care access for essential persons"
+"813","Maryland",2020-03-30,"Resource allocation","Crisis management plans","Administrative procedures facilitated","Allow remote notarization"
+"814","Maryland",2020-03-30,"Resource allocation","Crisis management plans","State aid, taxation and social security","Waive family contribution to health insurance"
+"815","Maryland",2020-03-30,"Social distancing","Mass gathering cancellation","Measures for elections","Elections postponed"
+"816","Maryland",2020-03-30,"Travel restriction","National lockdown","Stay-at-home Order",NA
+"817","Maryland",2020-03-31,"Resource allocation","Crisis management plans","State aid, taxation and social security","Tax relief measures"
+"818","Maryland",2020-03-31,"Healthcare and public health capacity","Increase healthcare workforce","Incentives for healthcare workers","Ease transport of health workers"
+"819","Maryland",2020-04-01,"Healthcare and public health capacity","Adapt procedures for patient management","Simplification of the health journey","Authorize telemedicine"
+"820","Maryland",2020-04-01,"Healthcare and public health capacity","Adapt procedures for patient management","Simplification of the health journey","Authorize audio-only call for health care services"
+"821","Maryland",2020-04-03,"Resource allocation","Crisis management plans","State aid, taxation and social security","Suspend evictions and foreclosures"
+"822","Maryland",2020-04-10,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Implement remote administrative procedures"
+"823","Massachusetts",2020-03-10,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"824","Massachusetts",2020-03-11,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Suspension of licensure laws for health care providers"
+"825","Massachusetts",2020-03-12,"Social distancing","Measures for special populations","Measures to limit contact to long-term care facilities","Visitors restricted in nursing homes and rest homes"
+"826","Massachusetts",2020-03-15,"Social distancing","Measures for special populations","Measures to limit contact to long-term care facilities","Visitors restricted in assisted living facilities"
+"827","Massachusetts",2020-03-16,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Extension of health insurance"
+"828","Massachusetts",2020-03-17,"Social distancing","Measures for special populations","Measures to limit contact to hospital patients","Visitors restricted in hospitals"
+"829","Massachusetts",2020-03-17,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Suspension of licensure laws for health care providers"
+"830","Massachusetts",2020-03-17,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Reactivate license/renew license of healthcare workers"
+"831","Massachusetts",2020-03-18,"Healthcare and public health capacity","Increase patient capacity","Postponement of non-essential care and non-urgent operations in hospitals",NA
+"832","Massachusetts",2020-03-18,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Suspension of licensure laws for health care providers"
+"833","Massachusetts",2020-03-18,"Healthcare and public health capacity","Adapt procedures for patient management","Ease prescription of regular medical products for patients","Extend right of pharmacists to prescription of opioids"
+"834","Massachusetts",2020-03-18,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Reactivate license/renew license of healthcare workers"
+"835","Massachusetts",2020-03-20,"Resource allocation","Crisis management plans","Administrative procedures facilitated","Vehicle registrations extended"
+"836","Massachusetts",2020-03-23,"Social distancing","Small gathering cancellation","Restriction on private and familial events","Prohibition of burial at sea or cremation"
+"837","Massachusetts",2020-03-23,"Healthcare and public health capacity","Personal protective measures","Enhance hand hygiene","Allowing non-traditional manufacturers to make alcohol-based hand sanitizers"
+"838","Massachusetts",2020-03-24,"Healthcare and public health capacity","Adapt procedures for patient management","Ease prescription of regular medical products for patients","Computer-based processing of prescriptions"
+"839","Massachusetts",2020-03-24,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Suspension of licensure laws for pharmacists"
+"840","Massachusetts",2020-03-24,"Healthcare and public health capacity","Adapt procedures for patient management","Ease prescription of regular medical products for patients","Ease prescription renewal"
+"841","Massachusetts",2020-03-24,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Nurse staffing requirements in hospitals suspended"
+"842","Massachusetts",2020-03-25,"Social distancing","Measures for special populations","Measures to protect vulnerable populations","Grocery stores and pharmacies must provide at least one hour every day in the early morning for adults 60 years and older in order to limit their potential exposure"
+"843","Massachusetts",2020-03-25,"Environmental measures","Environmental cleaning and disinfection","Disinfect shops","Grocery stores"
+"844","Massachusetts",2020-03-26,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Expanded scope of practice of nurses/ physician assistant/anaesthesists/midwifes"
+"845","Massachusetts",2020-03-28,"Healthcare and public health capacity","Increase isolation and quarantine facilities","Quarantine centers","Long-term care facilities repurposed as quarantine facilities"
+"846","Massachusetts",2020-04-01,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Expanded scope of practice of nurses/ physician assistant/anaesthesists/midwifes"
+"847","Massachusetts",2020-04-02,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Expanded scope of practice of nurses/ physician assistant/anaesthesists/midwifes"
+"848","Massachusetts",2020-04-03,"Healthcare and public health capacity","Personal protective measures","Enhance hand hygiene","Allowing licensed pharmacies to make and sell alcohol-based hand sanitizers"
+"849","Massachusetts",2020-04-03,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Expanded scope of practice of nurses/ physician assistant/anaesthesists/midwifes"
+"850","Massachusetts",2020-04-07,"Social distancing","Special measures for certain establishments","Grocery stores","Limitation on the number of customers to respect social distancing"
+"851","Massachusetts",2020-04-09,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Extension of health insurance"
+"852","Massachusetts",2020-04-09,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Ease the recruitment of healthcare workers"
+"853","Massachusetts",2020-04-09,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Recruitment of healthcare workers on the frontline"
+"854","Massachusetts",2020-04-14,"Social distancing","Special measures for certain establishments","Essential businesses and operations","Workers performing non-medical essential services allowed to continue work when exposed if they remain asymptomatic and take additional protective measures"
+"855","Michigan",2020-03-10,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"856","Michigan",2020-03-13,"Risk communication","Actively communicate with managers","Risk assessment before an event","All public bodies of departments and agencies of the State must consider postponing public meetings or agenda items that may be deferred"
+"857","Michigan",2020-03-13,"Social distancing","Mass gathering cancellation","Limit up to 250 persons",NA
+"858","Michigan",2020-03-14,"Social distancing","Measures for special populations","Measures to limit contact to long-term care facilities","Close long-term care facilities for visitors"
+"859","Michigan",2020-03-14,"Social distancing","Special measures for certain establishments","Prisons and youth detention centers","Visit restriction in prisons and youth detention centers"
+"860","Michigan",2020-03-16,"Case identification, contact tracing and related measures","Enhance detection system","Health evaluation of visitors before access to specific institutions","Care facilities"
+"861","Michigan",2020-03-16,"Case identification, contact tracing and related measures","Enhance detection system","Health evaluation of visitors before access to specific institutions","Juvenile justice facilities"
+"862","Michigan",2020-03-16,"Social distancing","Closure of educational institutions","Complete closure of primary and secondary schools",NA
+"863","Michigan",2020-03-16,"Resource allocation","Measures to ensure security of supply","Fixing price for necessity goods","Paper products, cleaning supplies, food, water."
+"864","Michigan",2020-03-16,"Resource allocation","Measures to ensure security of supply","Fixing price for specific protective products","Hand sanitizer and personal hygiene products"
+"865","Michigan",2020-03-16,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Partial: can offer delivery or pick-up services"
+"866","Michigan",2020-03-16,"Social distancing","Mass gathering cancellation","Cultural places and events","Closure of theatres, cinemas, and indoor and outdoor performance venues"
+"867","Michigan",2020-03-16,"Social distancing","Mass gathering cancellation","Cultural places and events","Libraries and museums"
+"868","Michigan",2020-03-16,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Closure of bars, taverns, brew pubs, breweries, microbreweries, distilleries, wineries, tasting rooms, special licensees, clubs, and other places of public accommodation offering alcoholic beverages for on-premises consumption"
+"869","Michigan",2020-03-16,"Social distancing","Mass gathering cancellation","Indoor activities","Bars, clubs, casinos"
+"870","Michigan",2020-03-16,"Social distancing","Mass gathering cancellation","Indoor activities","Fitness centers and gyms"
+"871","Michigan",2020-03-16,"Social distancing","Mass gathering cancellation","Indoor activities","Sport indoor and spa"
+"872","Michigan",2020-03-16,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"873","Michigan",2020-03-16,"Resource allocation","Measures to ensure security of supply","Increase delivery capacity for food products","Ease restrictions for workers who deliver food"
+"874","Michigan",2020-03-16,"Healthcare and public health capacity","Increase in medical supplies and equipment","Increase delivery capacity for medical supplies","Ease restrictions for workers who deliver medical supplies"
+"875","Michigan",2020-03-17,"Social distancing","Mass gathering cancellation","Limit up to 50 persons",NA
+"876","Michigan",2020-03-17,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Reactivate license/renew license of healthcare workers"
+"877","Michigan",2020-03-18,"Resource allocation","Crisis management plans","State aid, taxation and social security","Tax relief measures"
+"878","Michigan",2020-03-18,"Social distancing","Mass gathering cancellation","Conferences, meetings, trade fairs, etc.","Electronic meeting of public bodies allowed"
+"879","Michigan",2020-03-18,"Resource allocation","Crisis management plans","State aid, taxation and social security","Expand child care access"
+"880","Michigan",2020-03-20,"Resource allocation","Crisis management plans","State aid, taxation and social security","Suspend evictions and foreclosures"
+"881","Michigan",2020-03-21,"Healthcare and public health capacity","Increase patient capacity","Postponement of non-essential care and non-urgent operations in hospitals",NA
+"882","Michigan",2020-03-24,"Social distancing","Mass gathering cancellation","Closure of non-essential working places","In-person work that is not necessary to sustain or protect life is prohibited"
+"883","Michigan",2020-03-24,"Travel restriction","National lockdown","Stay-at-home Order",NA
+"884","Michigan",2020-03-24,"Social distancing","Small gathering cancellation","Complete prohibition of gathering",NA
+"885","Michigan",2020-03-25,"Social distancing","Mass gathering cancellation","Measures for elections","Elections postponed"
+"886","Michigan",2020-03-25,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Implement remote administrative procedures"
+"887","Michigan",2020-03-30,"Resource allocation","Crisis management plans","Repurpose government plans","Cost containment strategies in government institutions"
+"888","New York",2020-03-02,"Environmental measures","Environmental cleaning and disinfection","Disinfect educational institutions","Schools"
+"889","New York",2020-03-02,"Environmental measures","Environmental cleaning and disinfection","Disinfect public transports","New cleaning protocols"
+"890","New York",2020-03-02,"Healthcare and public health capacity","Enhance laboratory testing capacity","Increase testing capacity (number tests)","Increase technical capacity for performing tests"
+"891","New York",2020-03-02,"Risk communication","Educate and actively communicate with the public","Respiratory etiquette","Advice campaign for not touching eyes/nose/mouth"
+"892","New York",2020-03-02,"Risk communication","Educate and actively communicate with the public","Respiratory etiquette","Advice campaign for sneezing/coughing in the elbow"
+"893","New York",2020-03-03,"Social distancing","Return operation of nationals","Return operation of nationals in high-risk regions","Students from State University of New York that are abroad must return home"
+"894","New York",2020-03-03,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Guaranty payment of sick leaves during the epidemic"
+"895","New York",2020-03-04,"Social distancing","Return operation of nationals","Return operation of nationals in China, Italy, Japan, Iran, South Korea","State University of New York abroad students"
+"896","New York",2020-03-04,"Case identification, contact tracing and related measures","Quarantine","Incomings from high-risk areas","State University of New York abroad students"
+"897","New York",2020-03-05,"Resource allocation","Activate or establish emergency response","Risk management plan","Set up crisis unit (national)"
+"898","New York",2020-03-07,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"899","New York",2020-03-08,"Risk communication","Educate and actively communicate with the public","Promote workplace safety measures","Recommendation for home office"
+"900","New York",2020-03-09,"Healthcare and public health capacity","Increase availability of PPE","Hand sanitizers","Free supply of hand sanitizers"
+"901","New York",2020-03-09,"Social distancing","Special measures for certain establishments","Prisons and youth detention centers","Health screening protocols for all visitors of juvenile detention centers"
+"902","New York",2020-03-09,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Guaranty payment of sick leaves during the epidemic"
+"903","New York",2020-03-11,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Guaranty payment of sick leaves during the epidemic"
+"904","New York",2020-03-11,"Social distancing","Mass gathering cancellation","Limit up to 500 persons",NA
+"905","New York",2020-03-12,"Social distancing","Mass gathering cancellation","Cultural places and events","Partial closure of theatres"
+"906","New York",2020-03-13,"Social distancing","Special measures for certain establishments","Short-term accommodation: partial closure","At maximum fifty percent occupancy"
+"907","New York",2020-03-13,"Healthcare and public health capacity","Enhance laboratory testing capacity","Increase testing capacity (number tests)","Increase technical capacity for performing tests"
+"908","New York",2020-03-13,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"909","New York",2020-03-15,"Resource allocation","Activate or establish emergency response","Risk management plan","Contingency plan"
+"910","New York",2020-03-15,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Develop a plan to reduce density in court system"
+"911","New York",2020-03-16,"Healthcare and public health capacity","Increase patient capacity","Beds","Suspend regulations to allow existing hospitals to increase space and capacity, goal 9000 beds"
+"912","New York",2020-03-16,"Social distancing","Mass gathering cancellation","Limit up to 50 persons",NA
+"913","New York",2020-03-16,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Partial: remain open for take-out and delivery"
+"914","New York",2020-03-16,"Social distancing","Small gathering cancellation","Closure of non-essential shops","Video lottery gaming and casino gaming"
+"915","New York",2020-03-16,"Social distancing","Mass gathering cancellation","Indoor activities",NA
+"916","New York",2020-03-17,"Social distancing","Small gathering cancellation","Mandatory home office","For non-essential workers"
+"917","New York",2020-03-17,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"918","New York",2020-03-17,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Recruitment of healthcare workers on the frontline"
+"919","New York",2020-03-18,"Healthcare and public health capacity","Increase patient capacity","Increase number of medical institutions","1000 beds hospital ship"
+"920","New York",2020-03-18,"Social distancing","Closure of educational institutions","Complete closure of primary and secondary schools",NA
+"921","New York",2020-03-18,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Suspension of licensure laws for health care providers"
+"922","New York",2020-03-19,"Resource allocation","Crisis management plans","State aid, taxation and social security","Measures to protect renters and house owners"
+"923","New York",2020-03-19,"Social distancing","Small gathering cancellation","Closure of non-essential shops","All indoor common portions of retail shopping malls with in excess of 100,000 square feet of retail space available for lease"
+"924","New York",2020-03-19,"Social distancing","Mass gathering cancellation","Indoor activities","Hobby and leisure centres"
+"925","New York",2020-03-19,"Social distancing","Mass gathering cancellation","Outdoor activities","Places of public amusement: amusement rides, carnivals, amusement parks, water parks"
+"926","New York",2020-03-20,"Social distancing","Small gathering cancellation","Mandatory home office",NA
+"927","New York",2020-03-20,"Resource allocation","Crisis management plans","State aid, taxation and social security","Suspend evictions and foreclosures"
+"928","New York",2020-03-20,"Risk communication","Educate and actively communicate with the public","Encourage stay at home","Ederly, compromised immune systems, ill"
+"929","New York",2020-03-20,"Risk communication","Educate and actively communicate with the public","Promote social distancing measures","Promote the 2m distance"
+"930","New York",2020-03-20,"Risk communication","Educate and actively communicate with the public","Use of public transport","Discourage use of public transport"
+"931","New York",2020-03-20,"Risk communication","Educate and actively communicate with the public","Promote self-initiated isolation of people with mild respiratory symptoms",NA
+"932","New York",2020-03-20,"Risk communication","Educate and actively communicate with the public","Direct advice to vulnerable populations","Recommend the elderly to stay at home"
+"933","New York",2020-03-20,"Resource allocation","Activate or establish emergency response","Declare state of emergency","Declare emergency state: Major Disaster"
+"934","New York",2020-03-20,"Risk communication","Educate and actively communicate with the public","Communication targets protection of vulnerable populations","Promote the use of face masks in presence of vunerable people"
+"935","New York",2020-03-21,"Social distancing","Small gathering cancellation","Closure of non-essential shops","barbershops, hair salons, tattoo or piercing parlors and related personal care (nail technicians, cosmetologists, estheticians, electrolyse, laser hair removal services) closed to the public"
+"936","New York",2020-03-21,"Social distancing","Small gathering cancellation","Mandatory home office",NA
+"937","New York",2020-03-21,"Healthcare and public health capacity","Increase in medical supplies and equipment","Increase domestic production of medical equipment","Repurpose domestic industries"
+"938","New York",2020-03-21,"Healthcare and public health capacity","Increase availability of PPE","Face masks","Domestic production"
+"939","New York",2020-03-21,"Healthcare and public health capacity","Increase in medical supplies and equipment","Ventilators",NA
+"940","New York",2020-03-22,"Social distancing","Small gathering cancellation","Mandatory home office","Applies only to non-essential businesses"
+"941","New York",2020-03-22,"Healthcare and public health capacity","Increase patient capacity","Increase number of medical institutions","Nursing home facility repurposed into temporary hospital"
+"942","New York",2020-03-23,"Healthcare and public health capacity","Increase patient capacity","Beds","Executive Order mandating hospitals to increase capacity by at Least 50 Percent"
+"943","New York",2020-03-23,"Healthcare and public health capacity","Adapt procedures for patient management","Simplification of the health journey","Eliminate restrictions on ambulance services"
+"944","New York",2020-03-23,"Healthcare and public health capacity","Adapt procedures for patient management","Simplification of the health journey","Allow emergency medical services to transport patients to locations other than those formerly approved"
+"945","New York",2020-03-23,"Healthcare and public health capacity","Research","Simplify clinical trials regulations","Any emergency medical treatment protocol development or modification can occur solely with the approval of the Commissioner of Health"
+"946","New York",2020-03-23,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Expanded scope of practice of nurses/ physician assistant/anaesthesists/midwifes"
+"947","New York",2020-03-23,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Ease the recruitment of healthcare workers"
+"948","New York",2020-03-23,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Extension of the maximum amount of working hours allowed for critical workers"
+"949","New York",2020-03-23,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Suspension of licensure laws for pharmacists"
+"950","New York",2020-03-23,"Healthcare and public health capacity","Enhance laboratory testing capacity","Increase laboratory facilities","More laboratory dedicated"
+"951","New York",2020-03-23,"Social distancing","Small gathering cancellation","Complete prohibition of gathering",NA
+"952","New York",2020-03-23,"Healthcare and public health capacity","Enhance laboratory testing capacity","Increase laboratory facilities","Drive-in testing facilities"
+"953","New York",2020-03-23,"Risk communication","Educate and actively communicate with the public","Encourage stay at home","All citizens"
+"954","New York",2020-03-23,"Healthcare and public health capacity","Research","Clinical trials on COVID-19","FDA approval for study"
+"955","New York",2020-03-24,"Healthcare and public health capacity","Increase availability of PPE","PPE for healthcare professionals",NA
+"956","New York",2020-03-24,"Healthcare and public health capacity","Increase availability of PPE","Face masks",NA
+"957","New York",2020-03-25,"Healthcare and public health capacity","Increase patient capacity","Postponement of non-essential care and non-urgent operations in hospitals",NA
+"958","New York",2020-03-25,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Recruitment of healthcare workers on the frontline"
+"959","New York",2020-03-25,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Recruitment of mental health professionals"
+"960","New York",2020-03-25,"Resource allocation","Crisis management plans","State aid, taxation and social security","Postponement of rate increases"
+"961","New York",2020-03-26,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Recruitment of healthcare workers on the frontline"
+"962","New York",2020-03-27,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Recruitment of mental health professionals"
+"963","New York",2020-03-27,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Recruitment of healthcare workers on the frontline"
+"964","New York",2020-03-27,"Resource allocation","Crisis management plans","State aid, taxation and social security","Extended deadline for insurance-paying"
+"965","New York",2020-03-27,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Partial or total deferral of insurance payments"
+"966","New York",2020-03-27,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"967","New York",2020-03-27,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Extension of health insurance"
+"968","New York",2020-03-28,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Partial or total deferral of tax payments for businesses"
+"969","New York",2020-03-28,"Social distancing","Small gathering cancellation","Mandatory home office","Except certain construction"
+"970","New York",2020-03-28,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Funding for NGOs"
+"971","New York",2020-03-30,"Healthcare and public health capacity","Increase patient capacity","Emergency hospitals",NA
+"972","New York",2020-03-31,"Healthcare and public health capacity","Adapt procedures for patient management","Case management","Hospitals prepared to treat Covid-19 patients"
+"973","New York",2020-03-31,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Ease the recruitment of healthcare workers"
+"974","New York",2020-04-02,"Healthcare and public health capacity","Increase in medical supplies and equipment","Ventilators",NA
+"975","New York",2020-04-02,"Healthcare and public health capacity","Increase healthcare workforce","Mobilization of domestic resources for health","Volunteers"
+"976","New York",2020-04-02,"Healthcare and public health capacity","Increase availability of PPE","Increase domestic production of PPE","State will pay to convert manufacturing facilities to produce PPE products"
+"977","New York",2020-04-02,"Resource allocation","Crisis management plans","State aid, taxation and social security","Extended deadline for insurance-paying"
+"978","New York",2020-04-02,"Resource allocation","Crisis management plans","State aid, taxation and social security","Extension of health insurance"
+"979","New York",2020-04-02,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"980","New York",2020-04-02,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Extension of health insurance"
+"981","Wisconsin",2020-03-12,"Resource allocation","Activate or establish emergency response","Declare state of emergency","Health emergency"
+"982","Wisconsin",2020-03-14,"Resource allocation","Measures to ensure security of supply","Increase delivery capacity for necessity goods","Ease restrictions for transporters"
+"983","Wisconsin",2020-03-14,"Resource allocation","Measures to ensure security of supply","Increase delivery capacity for food products","Ease restrictions for transporters"
+"984","Wisconsin",2020-03-15,"Resource allocation","Crisis management plans","State aid, taxation and social security","Ease child care regulations"
+"985","Wisconsin",2020-03-17,"Social distancing","Mass gathering cancellation","Limit up to 50 persons",NA
+"986","Wisconsin",2020-03-17,"Social distancing","Small gathering cancellation","Limit up to 10 persons",NA
+"987","Wisconsin",2020-03-18,"Social distancing","Closure of educational institutions","Complete closure of primary and secondary schools",NA
+"988","Wisconsin",2020-03-18,"Resource allocation","Crisis management plans","State aid, taxation and social security","Government support the obtention of unemployment benefits"
+"989","Wisconsin",2020-03-19,"Social distancing","Special measures for certain establishments","Restriction in number of people in child care settings",NA
+"990","Wisconsin",2020-03-20,"Resource allocation","Police and army interventions","To support law enforcement/sanction in case of no compliance","To enforce social distancing"
+"991","Wisconsin",2020-03-21,"Resource allocation","Crisis management plans","Administrative procedures facilitated","Provide the school administration with flexibility in light of upcoming due dates"
+"992","Wisconsin",2020-03-22,"Resource allocation","Measures to ensure security of supply","Insure access to gas/electricity/water/telecommunications","Flexibility in bill payment for vulnerable customers"
+"993","Wisconsin",2020-03-23,"Social distancing","Special measures for certain establishments","Prisons and youth detention centers","Moratorium on admissions to mitigate the spread of Covid-19"
+"994","Wisconsin",2020-03-25,"Travel restriction","National lockdown","Stay-at-home Order",NA
+"995","Wisconsin",2020-03-26,"Resource allocation","Activate or establish emergency response","Exceptional change to work law","Ease restrictions for child labor"
+"996","Wisconsin",2020-03-27,"Resource allocation","Crisis management plans","State aid, taxation and social security","Suspend evictions and foreclosures"
+"997","Wisconsin",2020-03-27,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Suspension of licensure laws for health care providers"
+"998","Wisconsin",2020-03-27,"Resource allocation","Activate or establish emergency response","Suspension of the requirement for nutrient management plan","Disposal of unused milk"
+"999","Wisconsin",2020-03-30,"Resource allocation","Crisis management plans","Administrative procedures facilitated","Rule suspension on child safety and permanence"
+"1000","Wisconsin",2020-04-02,"Resource allocation","Activate or establish emergency response","Relaxation of data protection law","Emergency workers can access information about addresses of people tested positive to Covid-19"
+"1001","Wisconsin",2020-04-03,"Social distancing","Mass gathering cancellation","Measures for elections","Extended vote-by-mail procedures for elections"
+"1002","Wisconsin",2020-04-03,"Healthcare and public health capacity","Increase healthcare workforce","Exception to work law allowed","Suspension of licensure laws for health care providers"
+"1003","Wisconsin",2020-04-06,"Social distancing","Mass gathering cancellation","Measures for elections","Suspend in-person voting"
+"1004","Wisconsin",2020-04-09,"Resource allocation","Crisis management plans","Administrative procedures facilitated","Partial or total deferral of administrative obligations"
+"1005","Wisconsin",2020-04-09,"Resource allocation","Crisis management plans","State aid, taxation and social security","Ease access to financial aid for veterans"
+"1006","Wisconsin",2020-04-10,"Resource allocation","Measures to ensure security of supply","Increase delivery capacity for medical supplies","Ease restrictions for transporters"
+"1007","Wisconsin",2020-04-13,"Resource allocation","Crisis management plans","State aid, taxation and social security","Ease child care regulations"
+"1008","Wisconsin",2020-04-14,"Social distancing","Measures for special populations","Migrant labor camps","Safety measures and social distancing"
+"1009","Wisconsin",2020-04-14,"Resource allocation","Crisis management plans","Develop all-of-society and business continuity plans","Support tourism, sport and culture sectors"
+"1010","Wyoming",2020-03-13,"Resource allocation","Activate or establish emergency response","Declare state of emergency",NA
+"1011","Wyoming",2020-03-19,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","bars, restaurants"
+"1012","Wyoming",2020-03-19,"Social distancing","Mass gathering cancellation","Cultural places and events","Theatres"
+"1013","Wyoming",2020-03-19,"Social distancing","Closure of educational institutions","Complete closure of all educational institutions",NA
+"1014","Wyoming",2020-03-19,"Social distancing","Mass gathering cancellation","Indoor activities","Bars, clubs, casinos"
+"1015","Wyoming",2020-03-19,"Social distancing","Closure of educational institutions","Complete closure of kindergartens",NA
+"1016","Wyoming",2020-03-19,"Social distancing","Closure of educational institutions","Complete closure of primary and secondary schools",NA
+"1017","Wyoming",2020-03-19,"Social distancing","Closure of educational institutions","Complete closure of universities",NA
+"1018","Wyoming",2020-03-20,"Social distancing","Small gathering cancellation","Limit up to 10 persons",NA
+"1019","Wyoming",2020-03-20,"Resource allocation","Measures to ensure security of supply","Increase delivery capacity for medical supplies","Ease restrictions for transporters"
+"1020","Wyoming",2020-03-20,"Resource allocation","Measures to ensure security of supply","Increase delivery capacity for necessity goods","Ease restrictions for transporters"
+"1021","Wyoming",2020-03-20,"Resource allocation","Measures to ensure security of supply","Increase delivery capacity for food products","Ease restrictions for transporters"
+"1022","Wyoming",2020-03-20,"Risk communication","Actively communicate with healthcare professionals","Guidelines: help finding child care providers",NA
+"1023","Wyoming",2020-03-24,"Social distancing","Special measures for certain establishments","Decongestion of administrative institutions","Extension of driving licence"
+"1024","Wyoming",2020-03-25,"Social distancing","Small gathering cancellation","Closure of non-essential shops","Nail salons, hair salons, barber shops, massage therapy sevices, tattoo, body art and piercing shops, and cosmetology, electrology, and esthetic services"
+"1025","Wyoming",2020-03-30,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Partial: restaurants with liquor license can sell alcohol off premises"
+"1026","Wyoming",2020-03-30,"Risk communication","Actively communicate with managers","Guidelines","For grocery and retail stores"
+"1027","Wyoming",2020-04-03,"Case identification, contact tracing and related measures","Quarantine","Incoming travelers","All"
+"1028","Wyoming",2020-04-03,"Social distancing","Small gathering cancellation","Closure of restaurants/bars/cafes","Partial: restaurants with liquor license can sell more alcohol off premises"

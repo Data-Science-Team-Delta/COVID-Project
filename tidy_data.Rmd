@@ -1,0 +1,312 @@
+---
+title: "COVID Project"
+author: "Team Delta"
+date: 2020-10-20
+output:
+  github_document:
+    toc: true
+---
+
+```{r setup, include=FALSE}
+# knitr options
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r library, include=FALSE}
+library(tidyverse)
+```
+
+# Details on the datasets  
+
+<!-- -------------------------------------------------- -->
+
+### COVID dataset: 
+To read the csv of the covid data, use this code:
+
+```{r read-covid}
+filename_covid <- "./data/covid_data.csv"
+df_covid <- read_csv(filename_covid)
+```
+
+For each unique pair of **state** and **date**, it contains:
+
+ - **total_cases:** case count in number of people
+ - **total_deaths:** death count in number of people
+ - **total_population:** state population in number of people
+ - **cases_per100k:** case count per 100k people
+ - **deaths_per100k:** death count per 100k people
+ 
+### Interventions dataset:
+To read the csv of the intervention data, use this code:
+
+
+```{r read-intv}
+filename_intv <- "./data/intervention_data.csv"
+df_interventions <- read_csv(filename_intv)
+```
+
+
+Contains the following columns:
+
+ - **State:** which state a measure was enacted in
+ - **Date:** what day the measure was enacted
+ - **Measure_L1 through Measure_L4:** A description of the measure, getting more specific as the number increases
+    - There are 8 L1 measure categories, 66 L2 categories, and 642 L3 categories. L4 has many 'NA' descriptions.
+
+### Combined dataset: *(Please read this)*
+To read the csv of the combined data, use this code:
+
+```{r read-data}
+filename_data <- "./data/combined_data.csv"
+df_data <- read_csv(filename_data)
+```
+
+For each unique pair of **state** and **date**, it contains:
+
+ - **total_cases:** case count in number of people
+ - **total_deaths:** death count in number of people
+ - **total_population:** state population in number of people
+ - **cases_per100k:** case count per 100k people
+ - **deaths_per100k:** death count per 100k people
+ - **Num_measures_perday** total number of measures enacted on that day
+ - **Measures:** a list of the types of L1 measures enacted that day, duplicates removed, separated by a semicolon
+ - **the 8 L1 measure categories** the number of measures of that type were enacted on that day. 
+    - For example, 4 different risk communication measures were taken in Alabama on 2020-03-13. 
+    - If you want to get only whether that type of measure was taken, not how many, use \`measure name\` > 0
+
+#### Run this file again to pull the updated datasets from the New York Times and amel-github.
+
+# Combining Population and COVID Datasets
+<!-- -------------------------------------------------- -->
+
+Load up the population data from the US Census Bureau
+
+```{r pop-data}
+## Load the census bureau data with the following tibble name.
+filename <- "./data/census_population_data.csv"
+df_pop <- read_csv(filename, skip = 1)
+df_pop
+```
+
+Pull the New York Times COVID case and death counts dataset
+
+```{r nyt-data}
+## The URL for the NYT covid-19 county-level data
+url_nyt <- "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv"
+filename_nyt <- "./data/nyt_covid.csv"
+curl::curl_download(
+        url_nyt,
+        destfile = filename_nyt
+      )
+df_nyt <- read_csv(filename_nyt)
+df_nyt
+```
+Join the population and COVID datasets by their county code
+
+```{r join-fips}
+## Create a `fips` column by extracting the county code
+df_fips <- 
+  df_pop %>%
+  mutate(fips = substr(id, 10, 16)) %>%
+  subset(select = -c(id))
+df_fips
+
+## Join df_covid and df_pop by fips.
+df_covid <- 
+  left_join(df_nyt, df_fips, by = c("fips" = "fips"))
+df_covid
+
+## Rename and down select columns
+df_covid_data <-
+  df_covid %>%
+  select(
+    date,
+    county,
+    state,
+    fips,
+    cases,
+    deaths,
+    population = `Estimate!!Total`
+  ) %>%
+  filter(population != 'NA')
+
+df_covid_data
+```
+
+Aggregate by state
+
+```{r aggregate}
+df_covid_bystate <-
+  df_covid_data %>%
+  group_by(state, date) %>%
+  summarise(
+    total_cases = sum(cases), 
+    total_deaths = sum(deaths),
+    total_population_sofar = sum(population)
+    ) %>%
+  ungroup() %>%
+  group_by(state) %>%
+  mutate(total_population = max(total_population_sofar)) %>%
+  subset(select = -c(total_population_sofar))
+
+df_covid_bystate
+```
+
+Normalize the data per 100k persons
+
+```{r normalize}
+## Normalize cases and deaths
+mult = 10e4
+df_covid_norm <-
+  df_covid_bystate %>%
+  mutate(
+    cases_per100k = total_cases/total_population*mult, 
+    deaths_per100k = total_deaths/total_population*mult
+    )
+
+df_covid_norm
+```
+
+For each state and day, **df_covid_norm** contains:
+
+ - **total_cases:** case count in number of people
+ - **total_deaths:** death count in number of people
+ - **total_population:** state population in number of people
+ - **cases_per100k:** case count per 100k people
+ - **deaths_per100k:** death count per 100k people
+
+```{r save-csv-covid}
+write.csv(df_covid_norm,'./data/covid_data.csv')
+```
+
+# Intervention Measures Dataset
+<!-- -------------------------------------------------- -->
+
+Pull the non-pharmaceutical intervention measures dataset
+
+```{r intv-data}
+## The URL for the intervention measures country-level data
+url_intv <- "https://raw.githubusercontent.com/amel-github/covid19-interventionmeasures/master/COVID19_non-pharmaceutical-interventions_version2_utf8.csv"
+  
+## Set the filename of the data to download
+filename_intv <- "./data/amel-interventions.csv"
+
+## Download the data locally
+curl::curl_download(
+        url_intv,
+        destfile = filename_intv
+      )
+
+## Loads the downloaded csv
+df_intv <- read_csv(filename_intv)
+
+df_intv
+```
+
+Tidy the intervention measures dataset
+
+```{r tidy-intv}
+#df_intv # Raw data
+
+df_interventions <-
+  df_intv %>%
+  # Filter to USA, take out USA totals, and remove the 18 non-state subregions ex. "Broward County"
+  filter(iso3 == "USA", State != "United States of America", Region == State) %>%
+  select(
+    State,
+    Date,
+    Measure_L1,
+    Measure_L2,
+    Measure_L3,
+    Measure_L4
+  )
+
+df_interventions
+```
+
+**df_interventions** contains the following columns:
+
+ - **State:** which state a measure was enacted in
+ - **Date:** what day the measure was enacted
+ - **Measure_L1 through Measure_L4:** A description of the measure, getting more specific as the number increases
+    - There are 8 L1 measure categories, 66 L2 categories, and 642 L3 categories. L4 has many 'NA' descriptions.
+
+```{r save-csv-intv}
+write.csv(df_interventions,'./data/intervention_data.csv')
+```
+
+
+# Combining the COVID and Interventions Datasets
+<!-- -------------------------------------------------- -->
+
+We can't join to the covid dataset this way because of the dates not being distinct. YEt there are multiple measures taken on the same day, so how to combine? First of all, make it more manageable by taking away all designations except L1, the broadest one with only 8 categories.
+
+``` {r long-intv}
+df_intv2 <-
+  df_interventions %>%
+    select(
+      State,
+      Date,
+      Measure = Measure_L1
+    )
+
+df_intv2
+```
+
+Creating a wide version, to make sure each (State, Date) pair is unique so that we can join with the covid dataset later.
+
+``` {r wide-intv}
+
+df_wide_intv <-
+  df_intv2 %>%
+  group_by(State, Date, Measure) %>%
+  # Remove repeat rows with same values for State, Date, and Measure
+  filter(row_number(Measure) == 1) %>%
+  
+  pivot_wider(
+    names_from = c("Measure"),
+    values_from = Measure
+  ) %>%
+  unite(col = "Measures", -c("Date", "State"), sep = "; ", na.rm = TRUE)
+
+# In df_wide_intv Measures is all of the L1 designations concatenated with "; " between
+df_wide_intv
+
+df_wide_intv2 <-
+  df_intv2 %>%
+  group_by(State, Date, Measure) %>%
+  summarize(Num_measures = n()) %>%
+  pivot_wider(
+    names_from = "Measure",
+    values_from = Num_measures
+  )
+
+df_wide_intv2$Num_measures_perday <- 
+  cbind(
+    rowSums(df_wide_intv2 %>%
+      subset(select = -c(State, Date)), 
+    na.rm = TRUE)
+    )
+
+# In df_wide_intv2 Num_measures_perday is the total num measures enacted on that day, and the 8 new columns are 
+# the 8 possible L1 types of measures. The number stored is how many of that type were enacted on that day
+df_wide_intv2
+
+df_interventions <- 
+  left_join(df_wide_intv, df_wide_intv2, by = c("State" = "State", "Date" = "Date"))
+df_interventions
+```
+
+# Combining the Intervention Measures and COVID Datasets
+<!-- -------------------------------------------------- -->
+
+``` {r join-everything}
+df_combined_data <- 
+  left_join(df_covid_norm, df_interventions, by = c("state" = "State", "date" = "Date"))
+df_combined_data
+```
+
+
+```{r save-csv-combo}
+write.csv(df_combined_data,'./data/combined_data.csv')
+```
