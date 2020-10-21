@@ -68,8 +68,8 @@ For each unique pair of **state** and **date**, it contains:
  - **total_population:** state population in number of people
  - **cases_per100k:** case count per 100k people
  - **deaths_per100k:** death count per 100k people
- - **Num_measures_perday** total number of measures enacted on that day
- - **Measures:** a list of the types of L1 measures enacted that day, duplicates removed, separated by a semicolon
+ - **num_measures_perday** total number of measures enacted on that day
+ - **measures:** a list of the types of L1 measures enacted that day, duplicates removed, separated by a semicolon
  - **the 8 L1 measure categories** the number of measures of that type were enacted on that day. 
     - For example, 4 different risk communication measures were taken in Alabama on 2020-03-13. 
     - If you want to get only whether that type of measure was taken, not how many, use \`measure name\` > 0
@@ -267,7 +267,7 @@ df_wide_intv <-
     names_from = c("Measure"),
     values_from = Measure
   ) %>%
-  unite(col = "Measures", -c("Date", "State"), sep = "; ", na.rm = TRUE)
+  unite(col = "measures", -c("Date", "State"), sep = "; ", na.rm = TRUE)
 
 # In df_wide_intv Measures is all of the L1 designations concatenated with "; " between
 df_wide_intv
@@ -275,13 +275,13 @@ df_wide_intv
 df_wide_intv2 <-
   df_intv2 %>%
   group_by(State, Date, Measure) %>%
-  summarize(Num_measures = n()) %>%
+  summarize(num_measures = n()) %>%
   pivot_wider(
     names_from = "Measure",
-    values_from = Num_measures
+    values_from = num_measures
   )
 
-df_wide_intv2$Num_measures_perday <- 
+df_wide_intv2$num_measures_perday <- 
   cbind(
     rowSums(df_wide_intv2 %>%
       subset(select = -c(State, Date)), 

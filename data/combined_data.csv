@@ -1,4 +1,4 @@
-"","state","date","total_cases","total_deaths","total_population","cases_per100k","deaths_per100k","Measures","Resource allocation","Risk communication","Social distancing","Healthcare and public health capacity","Travel restriction","Case identification, contact tracing and related measures","Returning to normal life","Environmental measures","Num_measures_perday"
+"","state","date","total_cases","total_deaths","total_population","cases_per100k","deaths_per100k","measures","Resource allocation","Risk communication","Social distancing","Healthcare and public health capacity","Travel restriction","Case identification, contact tracing and related measures","Returning to normal life","Environmental measures","num_measures_perday"
 "1","Alabama",2020-03-13,6,0,4864680,0.1233380201781,0,"Resource allocation; Risk communication; Social distancing",1,4,1,NA,NA,NA,NA,NA,6
 "2","Alabama",2020-03-14,12,0,4864680,0.2466760403562,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "3","Alabama",2020-03-15,23,0,4864680,0.47279574401605,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

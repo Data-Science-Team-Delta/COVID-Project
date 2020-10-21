@@ -122,9 +122,9 @@ For each unique pair of **state** and **date**, it contains:
   - **total\_population:** state population in number of people
   - **cases\_per100k:** case count per 100k people
   - **deaths\_per100k:** death count per 100k people
-  - **Num\_measures\_perday** total number of measures enacted on that
+  - **num\_measures\_perday** total number of measures enacted on that
     day
-  - **Measures:** a list of the types of L1 measures enacted that day,
+  - **measures:** a list of the types of L1 measures enacted that day,
     duplicates removed, separated by a semicolon
   - **the 8 L1 measure categories** the number of measures of that type
     were enacted on that day.
@@ -543,7 +543,7 @@ df_wide_intv <-
     names_from = c("Measure"),
     values_from = Measure
   ) %>%
-  unite(col = "Measures", -c("Date", "State"), sep = "; ", na.rm = TRUE)
+  unite(col = "measures", -c("Date", "State"), sep = "; ", na.rm = TRUE)
 
 # In df_wide_intv Measures is all of the L1 designations concatenated with "; " between
 df_wide_intv
@@ -551,7 +551,7 @@ df_wide_intv
 
     ## # A tibble: 408 x 3
     ## # Groups:   State, Date [408]
-    ##    State   Date       Measures                                                  
+    ##    State   Date       measures                                                  
     ##    <chr>   <date>     <chr>                                                     
     ##  1 Alabama 2020-03-06 Resource allocation                                       
     ##  2 Alabama 2020-03-13 Resource allocation; Risk communication; Social distancing
@@ -569,17 +569,17 @@ df_wide_intv
 df_wide_intv2 <-
   df_intv2 %>%
   group_by(State, Date, Measure) %>%
-  summarize(Num_measures = n()) %>%
+  summarize(num_measures = n()) %>%
   pivot_wider(
     names_from = "Measure",
-    values_from = Num_measures
+    values_from = num_measures
   )
 ```
 
     ## `summarise()` regrouping output by 'State', 'Date' (override with `.groups` argument)
 
 ``` r
-df_wide_intv2$Num_measures_perday <- 
+df_wide_intv2$num_measures_perday <- 
   cbind(
     rowSums(df_wide_intv2 %>%
       subset(select = -c(State, Date)), 
@@ -608,7 +608,7 @@ df_wide_intv2
     ## # ... with 398 more rows, and 6 more variables: `Healthcare and public health
     ## #   capacity` <int>, `Travel restriction` <int>, `Case identification, contact
     ## #   tracing and related measures` <int>, `Returning to normal life` <int>,
-    ## #   `Environmental measures` <int>, Num_measures_perday[,1] <dbl>
+    ## #   `Environmental measures` <int>, num_measures_perday[,1] <dbl>
 
 ``` r
 df_interventions <- 
@@ -618,7 +618,7 @@ df_interventions
 
     ## # A tibble: 408 x 12
     ## # Groups:   State, Date [408]
-    ##    State Date       Measures `Resource alloc~ `Risk communica~ `Social distanc~
+    ##    State Date       measures `Resource alloc~ `Risk communica~ `Social distanc~
     ##    <chr> <date>     <chr>               <int>            <int>            <int>
     ##  1 Alab~ 2020-03-06 Resourc~                1               NA               NA
     ##  2 Alab~ 2020-03-13 Resourc~                1                4                1
@@ -633,7 +633,7 @@ df_interventions
     ## # ... with 398 more rows, and 6 more variables: `Healthcare and public health
     ## #   capacity` <int>, `Travel restriction` <int>, `Case identification, contact
     ## #   tracing and related measures` <int>, `Returning to normal life` <int>,
-    ## #   `Environmental measures` <int>, Num_measures_perday[,1] <dbl>
+    ## #   `Environmental measures` <int>, num_measures_perday[,1] <dbl>
 
 # Combining the Intervention Measures and COVID Datasets
 
@@ -660,11 +660,11 @@ df_combined_data
     ##  9 Alab~ 2020-03-21         131            0          4864680         2.69 
     ## 10 Alab~ 2020-03-22         157            0          4864680         3.23 
     ## # ... with 11,984 more rows, and 11 more variables: deaths_per100k <dbl>,
-    ## #   Measures <chr>, `Resource allocation` <int>, `Risk communication` <int>,
+    ## #   measures <chr>, `Resource allocation` <int>, `Risk communication` <int>,
     ## #   `Social distancing` <int>, `Healthcare and public health capacity` <int>,
     ## #   `Travel restriction` <int>, `Case identification, contact tracing and
     ## #   related measures` <int>, `Returning to normal life` <int>, `Environmental
-    ## #   measures` <int>, Num_measures_perday[,1] <dbl>
+    ## #   measures` <int>, num_measures_perday[,1] <dbl>
 
 ``` r
 write.csv(df_combined_data,'./data/combined_data.csv')
