@@ -1,0 +1,68 @@
+---
+title: "COVID Project"
+author: "Team Delta"
+date: 2020-10-20
+output:
+  github_document:
+    toc: true
+---
+
+```{r setup, include=FALSE}
+# knitr options
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r library, include=FALSE}
+library(tidyverse)
+```
+
+# Details on the datasets  
+
+<!-- -------------------------------------------------- -->
+
+### COVID dataset: 
+To read the csv of the covid data, use this code:
+
+```{r read-tidy-data}
+filename_covid <- "./data/combined_data.csv"
+df <- read_csv(filename_covid)
+```
+
+#Initial view of Data
+
+```{r}
+df %>%
+  glimpse
+df
+```
+
+#Specific States
+Take a closer look at specific states prior to May 16
+
+```{r - Louisiana}
+df %>%
+  filter(state == "Louisiana") %>%
+  filter(date <=as.Date("2020-05-16")) %>%
+  ggplot(aes(date, cases_per100k)) +
+  geom_point(data = interventions, mapping = aes(color = Measures)) +
+  geom_line()
+
+```
+```{r - California}
+df %>%
+  filter(state == "California") %>%
+  filter(date <=as.Date("2020-05-16")) %>%
+  ggplot(aes(date, cases_per100k)) +
+  geom_point(data = interventions, mapping = aes(color = Measures)) +
+  geom_line()
+
+```
+```{r - Massachusetts}
+df %>%
+  filter(state == "Massachusetts") %>%
+  filter(date <=as.Date("2020-05-16")) %>%
+  ggplot(aes(date, cases_per100k)) +
+  geom_point(data = interventions, mapping = aes(color = Measures)) +
+  geom_line()
+
+```
