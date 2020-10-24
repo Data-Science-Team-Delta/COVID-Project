@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 Final Report"
-author: Lilo Heinrith, Eamon Ito-Fisher, Alison Palmer, and Tim Novak
+author: Lilo Heinrich, Eamon Ito-Fisher, Alison Palmer, and Tim Novak
 date: 2020-10-26
 output: github_document
 ---
@@ -40,14 +40,14 @@ In order to normalize coronavirus cases by population, we obtained population da
 
 Researchers at the Complexity Science Hub Vienna have compiled data on government non-pharmaceutical intervention measures by country. For the United States, they have also broken down the data by state.
 
-This data was compiled from a wide range of public sources, including “official government sources, peer-reviewed and non-peer-reviewed scientific papers, webpages of public health institutions (WHO, CDC, and ECDC), press releases, newspaper articles, and government communication through social media.” Each measure taken is described within a 4-level classification system, with increasing specificity at each level. This dataset only includes information from February 27th till May 8th. 
+This data was compiled from a wide range of public sources, including “official government sources, peer-reviewed and non-peer-reviewed scientific papers, webpages of public health institutions (WHO, CDC, and ECDC), press releases, newspaper articles, and government communication through social media.” Each measure taken is described within a 4-level classification system, with increasing specificity at each level. This dataset only includes information from February 27th to May 8th. 
 
 
 
 # Analysis
 <!-- -------------------------------------------------- -->
 
-Examining our intervention measures dataset, the earliest measures were put in place on February 27th and the latest listed were on May 8th, so we filtered on this date range in our continuing analysis.
+Examining our intervention measures dataset, the earliest measures were put in place on February 27th and the latest on May 8th, so we filtered on this date range in our continuing analysis.
 
 To investigate whether legislations were being made based off of current covid data, we graphed normalized cumulative covid cases and number of intervention measures over time. We hypothesized that if measures were implemented in a reactionary sense we could see a spike or increase in covid cases or deaths right before a policy change was implemented. We noticed that this did not seem to be the case as there were no significant features which occurred before implementation of policies. 
 
@@ -73,9 +73,8 @@ Measures taken by individual state governments tended to be more pre-emptive tha
 # Additional Questions
 <!-- -------------------------------------------------- -->
 
+* What are the outliers that had a high change in cases or high number of total cases before measures were implemented? Were they reactions to specific events?
 * In other countries that have slowed the spread more than America, are there specific policies that show up repeatedly? In addition, was the timing of their response earlier in relation to the cases?
-* Did other countries implement policies earlier than the US?
-* Did other countries implement more policies than the US?
 * What factors affect the spread of COVID other than policy?
 * Did US States take measures following COVID related events outside of the United States?
 

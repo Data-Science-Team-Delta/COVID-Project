@@ -1,6 +1,6 @@
 COVID-19 Final Report
 ================
-Lilo Heinrith, Eamon Ito-Fisher, Alison Palmer, and Tim Novak
+Lilo Heinrich, Eamon Ito-Fisher, Alison Palmer, and Tim Novak
 2020-10-26
 
 # Central Question
@@ -104,15 +104,15 @@ scientific papers, webpages of public health institutions (WHO, CDC, and
 ECDC), press releases, newspaper articles, and government communication
 through social media.” Each measure taken is described within a 4-level
 classification system, with increasing specificity at each level. This
-dataset only includes information from February 27th till May 8th.
+dataset only includes information from February 27th to May 8th.
 
 # Analysis
 
 <!-- -------------------------------------------------- -->
 
 Examining our intervention measures dataset, the earliest measures were
-put in place on February 27th and the latest listed were on May 8th, so
-we filtered on this date range in our continuing analysis.
+put in place on February 27th and the latest on May 8th, so we filtered
+on this date range in our continuing analysis.
 
 To investigate whether legislations were being made based off of current
 covid data, we graphed normalized cumulative covid cases and number of
@@ -167,11 +167,12 @@ preemptively, before the pandemic got too widespread.
 
 <!-- -------------------------------------------------- -->
 
+  - What are the outliers that had a high change in cases or high number
+    of total cases before measures were implemented? Were they reactions
+    to specific events?
   - In other countries that have slowed the spread more than America,
     are there specific policies that show up repeatedly? In addition,
     was the timing of their response earlier in relation to the cases?
-  - Did other countries implement policies earlier than the US?
-  - Did other countries implement more policies than the US?
   - What factors affect the spread of COVID other than policy?
   - Did US States take measures following COVID related events outside
     of the United States?
