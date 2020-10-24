@@ -1,0 +1,52 @@
+---
+title: "COVID-19 Final Report"
+author: Lilo Heinrith, Eamon Ito-Fisher, Alison Palmer, and Tim Novak
+date: 2020-10-26
+output: github_document
+---
+
+# Central Question
+<!-- -------------------------------------------------- -->
+
+At the start of the pandemic, when did state governments implement policies in relation to the amount COVID cases? 
+
+# Background Information
+<!-- -------------------------------------------------- -->
+
+SARS-CoV-2 also known colloquially as COVID-19 is a respiratory pathogen that was discovered in 2019 in China ([WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19)).  COVID affects each person who is infected differently. The most common symptoms of COVID-19 are fever, dry cough, and fatigue. Typically people who have COVID experience mild symptoms or no symptoms, also known as asymptomatic carriers([CDC](https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html)). More severe cases of COVID can result in death and complications. The WHO estimates that 80% of those with COVID recover without needing hospitalization. 14% require hospitalization due to serious symptoms and would be classified as a severe case, and 5% require intensive care in a hospital and are classified as critical cases([WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19)). 
+
+The WHO recommends social distancing, mask wearing, washing your hands, covering coughs and sneezes, avoiding crows, and ventilating rooms or socializing outside ([WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19)).  
+
+The median incubation period for COVID from the time of exposure to symptoms is 4-5 days. For those who get sick enough to go to the ICU, the median time from symptoms to admission is 10 to 12 days. Patients who survived after being hospitalized, stayed in the hospital for a median length of 10 to 13 days([CDC](https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html)). 
+
+The government issued various declarations of emergency which led to various travel restrictions([Wikipedia](https://en.wikipedia.org/wiki/U.S._federal_government_response_to_the_COVID-19_pandemic#Containment_efforts_within_the_U.S.)). The Federal government issued recommendations for state governments to enact ([NPR](https://www.npr.org/2020/03/30/822448199/how-15-days-became-45-trump-extends-guidelines-to-slow-coronavirus)). By not issuing a unifying policy for the entire country, each state was able to enact policies they saw fit. This has led to a patchwork of various COVID policies across the nation. An economic stimulus package known as the CARES Act passed which gave qualifying Americans a one time $1200 check to offset the lost revenue/salaries due to COVID-19’s impact on the American economy. It included an extra $600 a week for individuals collecting unemployment benefits. This bill also provided loans for small businesses and larger businesses. $150 billion was set aside for state and local governments and $130 billion for hospitals. Congress also provided $3 billion to research and development of treatments and vaccines related to COVID-19. The Paycheck Protection Program provided $75 billion for hospitals to implement a nationwide testing strategy ([Wikipedia](https://en.wikipedia.org/wiki/U.S._federal_government_response_to_the_COVID-19_pandemic#Containment_efforts_within_the_U.S.)). In some states, the National Guard was deployed to provide medical relief ([ABC News](https://abcnews.go.com/US/coronavirus-live-updates-us-now-highest-globally-covid/story?id=69733219)). 
+
+# Data
+<!-- -------------------------------------------------- -->
+
+blah blah blah
+
+# Conclusion
+<!-- -------------------------------------------------- -->
+
+Measures taken by state government are more preventative than reactive
+
+# Additional Questions
+<!-- -------------------------------------------------- -->
+
+* In other countries that have slowed the spread more than America, are there specific policies that show up repeatedly? In addition, was the timing of their response earlier in relation to the cases?
+* What factors affect the spread of COVID other than policy?
+
+# Project Repo
+<!-- -------------------------------------------------- -->
+
+https://github.com/Data-Science-Team-Delta/COVID-Project
+
+# Sources
+<!-- -------------------------------------------------- -->
+
+* https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html
+* https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19
+* https://en.wikipedia.org/wiki/U.S._federal_government_response_to_the_COVID-19_pandemic#Containment_efforts_within_the_U.S.
+* https://www.npr.org/2020/03/30/822448199/how-15-days-became-45-trump-extends-guidelines-to-slow-coronavirus
+* https://abcnews.go.com/US/coronavirus-live-updates-us-now-highest-globally-covid/story?id=69733219
