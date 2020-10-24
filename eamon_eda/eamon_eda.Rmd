@@ -191,7 +191,7 @@ df_data %>%
 
 **Goal**: Plot just cases over time vs measures and see how they match up
 
-```{r cases_vs_measures_vs_time, fig.width = 15}
+```{r cases_vs_measures_vs_time}
 df_data %>%
   filter(date < "2020-7-1") %>%
   group_by(date) %>%
@@ -247,3 +247,140 @@ df_data %>%
 **Observations**:
 
 - Issue persists even when not looking at averages. Not good, means there is very little pre-measure data to pull trends from.
+
+```{r}
+df_data %>%
+  filter(date < "2020-4-1") %>%
+  group_by(state, date) %>%
+  ungroup() %>%
+  ggplot(aes(date, cases_per100k, color = state)) +
+  geom_col(
+    data = df_total_measures %>% filter(date < "2020-4-1"),
+    aes(y = total_measures), color = "black", fill = "black") +
+  geom_point() +
+  scale_y_continuous(
+    name = "Average Cases",
+    sec.axis = sec_axis(~./10, name="Num Measures")
+  ) +
+  scale_x_date(name = "Date") +
+  theme(
+      axis.title.y = element_text(color = "black"),
+      axis.title.y.right = element_text(color = "black"),
+      legend.position="none"
+  )
+```
+```{r zdr-theme}
+## NOTE: No need to edit; feel free to re-use this code!
+theme_common <- function() {
+  theme_minimal() %+replace%
+  theme(
+    axis.title.x = element_text(margin = margin(4, 4, 4, 4), size = 12),
+    axis.title.y = element_text(margin = margin(4, 4, 4, 4), size = 12, angle = 90),
+    
+    legend.title = element_text(margin = margin(4, 4, 4, 4), size = 16),
+    legend.text = element_text(size = 12),
+
+    strip.text.x = element_text(size = 12),
+    strip.text.y = element_text(size = 12),
+
+    panel.grid.major = element_line(color = "grey90"),
+    panel.grid.minor = element_line(color = "grey90"),
+    
+    plot.title.position = "plot",
+  )
+}
+```
+
+```{r, fig.width=9}
+window_size = 14
+df_data %>%
+  group_by(state) %>%
+  mutate(
+    delta_cases = total_cases - lag(total_cases),
+    delta_n_cases = cases_per100k - lag(cases_per100k)
+  ) %>%
+  drop_na(delta_cases) %>%
+  filter(delta_n_cases > 0) %>%
+  group_by(state) %>%
+  mutate(avg_delta_cases = slideMean(delta_n_cases, window_size)) %>%
+  slice(window_size:n()) %>%
+  ungroup() %>%
+  drop_na(num_measures_perday) %>%
+  ggplot(aes(avg_delta_cases, num_measures_perday)) +
+  geom_point()
+
+window_size = 14
+df_data %>%
+  group_by(state) %>%
+  mutate(
+    delta_cases = total_cases - lag(total_cases),
+    delta_n_cases = cases_per100k - lag(cases_per100k)
+  ) %>%
+  drop_na(delta_cases) %>%
+  filter(delta_n_cases > 0) %>%
+  group_by(state) %>%
+  mutate(avg_delta_cases = slideMean(delta_n_cases, window_size)) %>%
+  slice(window_size:n()) %>%
+  ungroup() %>%
+  drop_na(num_measures_perday) %>%
+  mutate(bin = cut(avg_delta_cases, seq(0, max(avg_delta_cases), length.out = 100), labels = FALSE)) %>%
+  mutate(bin = bin * max(avg_delta_cases) / 100) %>%
+  ggplot() +
+  geom_histogram(
+    mapping = aes(avg_delta_cases, weight = num_measures_perday),
+    bins = 100
+  ) +
+  geom_smooth(
+    data = . %>% group_by(bin) %>% summarise(num_measures_perbin = sum(num_measures_perday)),
+    mapping = aes(bin, num_measures_perbin),
+    color = "Black",
+    se = FALSE
+  ) +
+  xlab("Average change in state covid cases (normalized for population) over the 14 days before each measure") +
+  ylab("US government Covid-19 intervention measures") +
+  ggtitle("Number of US intervention measures vs average change in state covid cases before measure") +
+  theme_common()
+```
+
+```{r, fig.width=9}
+window_size = 14
+df_data %>%
+  group_by(state) %>%
+  mutate(avg_cases = slideMean(cases_per100k, window_size)) %>%
+  slice(window_size:n()) %>%
+  ungroup() %>%
+  drop_na(num_measures_perday) %>%
+  ggplot(aes(avg_cases, weight = num_measures_perday)) +
+  geom_histogram(bins = 100) +
+  xlab("Average cases over previous 14 days") +
+  ylab("Number of measures") +
+  ggtitle("Number of measures vs Average cases over previous 14 days")
+
+window_size = 14
+df_data %>%
+  group_by(state) %>%
+  mutate(avg_cases = slideMean(cases_per100k, window_size)) %>%
+  slice(window_size:n()) %>%
+  ungroup() %>%
+  drop_na(num_measures_perday) %>%
+  filter(is.finite(avg_cases)) %>%
+  mutate(bin = cut(avg_cases, seq(0, max(avg_cases), length.out = 100), labels = FALSE)) %>%
+  mutate(bin = bin * max(avg_cases) / 100) %>%
+  ggplot() +
+  geom_histogram(
+    mapping = aes(avg_cases, weight = num_measures_perday),
+    bins = 100
+  ) +
+  geom_smooth(
+    data = . %>% group_by(bin) %>% summarise(num_measures_perbin = sum(num_measures_perday)),
+    mapping = aes(bin, num_measures_perbin),
+    color = "Black",
+    se = FALSE,
+  ) +
+  ylim(0, NA) +
+  xlab("Average state covid cases (normalized for population) over the 14 days before each measure") +
+  ylab("US government Covid-19 intervention measures") +
+  ggtitle("Number of US intervention measures vs average state covid cases before measure") +
+  theme_common()
+```
+
