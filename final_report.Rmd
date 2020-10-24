@@ -47,15 +47,26 @@ This data was compiled from a wide range of public sources, including “officia
 # Analysis
 <!-- -------------------------------------------------- -->
 
+Examining our intervention measures dataset, the earliest measures were put in place on February 27th and the latest listed were on May 8th, so we filtered on this date range in our continuing analysis.
 
-![this is where the alt text goes](./images/measures_vs_cases.png)
+To investigate whether legislations were being made based off of current covid data, we graphed normalized cumulative covid cases and number of intervention measures over time. We hypothesized that if measures were implemented in a reactionary sense we could see a spike or increase in covid cases or deaths right before a policy change was implemented. We noticed that this did not seem to be the case as there were no significant features which occurred before implementation of policies. 
 
-![this is where the alt text goes](./images/measures_vs_delta_cases.png)
+We wanted to make this relation more clear and so we developed a metric to measure the correlation between an increase in cases leading up to a policy change and the number of interventions implemented. The metric we chose to measure this was the average change in cases (for the 14 days leading up to a policy change because of the 14 day maximum asymptomatic transmission period of the COV19 virus). If more interventions were implemented with a low average change in cases leading into them this would suggest that the policies were largely preemptive in nature, while policies would be more reactive in nature if the policies were implemented following a high average change in cases.
+
+A graph of this relationship in the data can be seen below:
+
+
+![](./images/measures_vs_delta_cases.png)
+
+We can see that most of the measures are implemented when there are low changes in cases. Our understanding of the situation can be supplemented by looking at our next graph.
+
+![](./images/measures_vs_cases.png)
+Here, we look at the number of normalized total cases a state had at the time of implementing a measure. We see that most policies were made when there were low total cases, and fewer policies were implemented where there were higher total cases.
 
 # Conclusion
 <!-- -------------------------------------------------- -->
 
-Measures taken by individual state governments tended to be more pre-emptive than reactive. Looking at our two final graphs we can clearly see that the majority of measures were made with a small average number of cases, and a small average change in cases. One thing to note here is that the majority of the measures had low average change in cases, but not no average change in cases. This would suggest that many of the measures were made when cases were very low and were just starting to increase, which in turn would suggest that the measures were made near the beginning of the pandemic right as it started. In all, it seems like most measures near the start of the pandemic were made preemptively, before the pandemic got too widespread.
+Measures taken by individual state governments tended to be more pre-emptive than reactive. Looking at our two final graphs we can clearly see that the majority of measures were made with a small number of cases, and a small average change in cases. One thing to note here is that the majority of the measures had low average change in cases, but not no average change in cases. These observations would suggest that many of the measures were made when cases were still low and were just starting to increase, which in turn would suggest that the measures were made near the beginning of the pandemic right as it started. In all, it seems like most measures near the start of the pandemic were made preemptively, before the pandemic got too widespread. 
 
 
 
