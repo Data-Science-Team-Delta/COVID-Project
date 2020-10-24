@@ -24,18 +24,49 @@ The government issued various declarations of emergency which led to various tra
 # Data
 <!-- -------------------------------------------------- -->
 
-blah blah blah
+*[New York Times Coronavirus (Covid-19) Data in the United States](https://github.com/nytimes/covid-19-data)*
+
+
+The New York Times is releasing cumulative counts of coronavirus cases in the United States, at both the state and county level, over time. They are compiling this data from state and local governments and health departments to attempt to provide a complete record of the ongoing outbreak. Their dataset includes cumulative cases and cumulative deaths, per day, per geographic region.
+
+
+*[US Census Population Data](https://data.census.gov/cedsci/table?q=United%20States&t=Population%20Total&g=0100000US.050000&tid=ACSDT5Y2018.B01003&hidePreview=false)*
+
+
+In order to normalize coronavirus cases by population, we obtained population data from the [US Census Bureau](https://data.census.gov). We took the [5-Year Estimate of US Total Population by County in 2018](https://data.census.gov/cedsci/table?q=United%20States&t=Population%20Total&g=0100000US.050000&tid=ACSDT5Y2018.B01003&hidePreview=false) and aggregated to get the total state population. To join the coronavirus data with the population data, we used the Federal Information Processing Standards (FIPS) county code included in both datasets.
+
+*[Complexity Science Hub (CSH) Covid-19 Control Strategies List](https://github.com/amel-github/covid19-interventionmeasures)*
+
+
+Researchers at the Complexity Science Hub Vienna have compiled data on government non-pharmaceutical intervention measures by country. For the United States, they have also broken down the data by state.
+
+This data was compiled from a wide range of public sources, including “official government sources, peer-reviewed and non-peer-reviewed scientific papers, webpages of public health institutions (WHO, CDC, and ECDC), press releases, newspaper articles, and government communication through social media.” Each measure taken is described within a 4-level classification system, with increasing specificity at each level. This dataset only includes information from February 27th till May 8th. 
+
+
+
+# Analysis
+<!-- -------------------------------------------------- -->
+
+
+![this is where the alt text goes](./images/measures_vs_cases.png)
+
+![this is where the alt text goes](./images/measures_vs_delta_cases.png)
 
 # Conclusion
 <!-- -------------------------------------------------- -->
 
-Measures taken by state government are more preventative than reactive
+Measures taken by individual state governments tended to be more pre-emptive than reactive. Looking at our two final graphs we can clearly see that the majority of measures were made with a small average number of cases, and a small average change in cases. One thing to note here is that the majority of the measures had low average change in cases, but not no average change in cases. This would suggest that many of the measures were made when cases were very low and were just starting to increase, which in turn would suggest that the measures were made near the beginning of the pandemic right as it started. In all, it seems like most measures near the start of the pandemic were made preemptively, before the pandemic got too widespread.
+
+
 
 # Additional Questions
 <!-- -------------------------------------------------- -->
 
 * In other countries that have slowed the spread more than America, are there specific policies that show up repeatedly? In addition, was the timing of their response earlier in relation to the cases?
+* Did other countries implement policies earlier than the US?
+* Did other countries implement more policies than the US?
 * What factors affect the spread of COVID other than policy?
+* Did US States take measures following COVID related events outside of the United States?
 
 # Project Repo
 <!-- -------------------------------------------------- -->
