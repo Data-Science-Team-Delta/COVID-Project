@@ -141,7 +141,9 @@ We can see that most of the measures are implemented when there are low
 changes in cases. Our understanding of the situation can be supplemented
 by looking at our next graph.
 
-![](./images/measures_vs_cases.png) Here, we look at the number of
+![](./images/measures_vs_cases.png) 
+
+Here, we look at the number of
 normalized total cases a state had at the time of implementing a
 measure. We see that most policies were made when there were low total
 cases, and fewer policies were implemented where there were higher total
