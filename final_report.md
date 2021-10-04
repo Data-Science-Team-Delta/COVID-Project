@@ -156,7 +156,7 @@ pre-emptive than reactive. Looking at our two final graphs we can
 clearly see that the majority of measures were made with a small number
 of cases, and a small average change in cases. One thing to note here is
 that the majority of the measures had low average change in cases, but
-not no average change in cases. These observations would suggest that
+no average change in cases. These observations would suggest that
 many of the measures were made when cases were still low and were just
 starting to increase, which in turn would suggest that the measures were
 made near the beginning of the pandemic right as it started. In all, it
